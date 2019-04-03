@@ -11,3 +11,5 @@ draft: false
 Alexandra leads product and engineering at [VIBBIO](https://vibbio.com), an Oslo-based video startup.
 
 A designer by trade and a terrible programmer by choice, she moves between worlds, and refuses to play by the rules.
+
+Home page background photo by [Tyler Lastovich](https://unsplash.com/photos/ddLiNMqWAOM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
