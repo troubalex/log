@@ -7,7 +7,7 @@ tags:
   - startups
 ---
 
-I get asked on a regular basis of it's a good idea to apply for a job at an early stage startup. As usual, the answer is "it depends". There are clear pros and cons, in my opinion.
+I get asked on a regular basis if it's a good idea to apply for a job at an early stage startup. As usual, the answer is "it depends". There are clear pros and cons, in my opinion.
 
 ## Pros
 
@@ -25,4 +25,4 @@ I get asked on a regular basis of it's a good idea to apply for a job at an earl
 - You get a lot more responsibility than in established companies
 - You might feel very lonely
 
-I usually tell folks that it really depends on how secure they feel with what they know and what they don't know. Chances are that you have to jump into something completely unexpected that **will** make you feel uncomfortable. It's okay to feel like that but you should be honest with yourself: can you sit with the uncomfort and do the best you can?
+I usually tell folks that it really depends on how secure they feel with what they know and what they don't know. Chances are that you have to jump into something completely unexpected that _will_ make you feel uncomfortable. It's okay to feel like that but you should be honest with yourself: can you sit with the discomfort and do the best you can?
