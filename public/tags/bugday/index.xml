@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BugDay on Alexandra&#39;s Log</title>
+    <link>/tags/bugday/</link>
+    <description>Recent content in BugDay on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 25 Oct 2008 12:28:16 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/bugday/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get &#39;em all!</title>
+      <link>/posts/get-em-all/</link>
+      <pubDate>Sat, 25 Oct 2008 12:28:16 +0000</pubDate>
+      
+      <guid>/posts/get-em-all/</guid>
+      <description>As you may have noticed, KOffice is approching a 2.0 release. There is still some work to do and here&amp;rsquo;s where you come in. It was already announced on the dot: Sunday (which is tomorrow) will be the first official KOffice Bug Day. Or Krush Mastery as Lemma called it. We&amp;rsquo;ll start at 7:00 UTC and gather on #kde-bugs to hunt down known bugs and find some new in the latest release.</description>
+    </item>
+    
+  </channel>
+</rss>

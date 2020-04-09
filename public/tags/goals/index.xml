@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>goals on Alexandra&#39;s Log</title>
+    <link>/tags/goals/</link>
+    <description>Recent content in goals on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 03 Apr 2019 23:16:39 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/goals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Wed, 03 Apr 2019 23:16:39 +0200</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>Inspired by (okay, stolen from) Elisabeth Irgens
+Let&amp;rsquo;s try something different. I need to get my perfectionism under control when it comes to writing, so I decided to follow Elisabeth&amp;rsquo;s example, and try a low-key way of writing down things I learn or stumble upon. Kind of like a log.
+I constantly learn new things about building product, growing a team, and creating a company from nothing at VIBBIO, I might as well jot it down.</description>
+    </item>
+    
+  </channel>
+</rss>

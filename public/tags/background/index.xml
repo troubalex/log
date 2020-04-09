@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>background on Alexandra&#39;s Log</title>
+    <link>/tags/background/</link>
+    <description>Recent content in background on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 07 Mar 2011 20:34:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/background/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community: my first steps</title>
+      <link>/posts/community-first-steps/</link>
+      <pubDate>Mon, 07 Mar 2011 20:34:00 +0000</pubDate>
+      
+      <guid>/posts/community-first-steps/</guid>
+      <description>Time flies. 15 years ago I published my first community fuelled website. It&amp;rsquo;s long gone of course but I can still tell the story. It all started with an anniversary One of my all-time favourite children&amp;rsquo;s TV show went into it&amp;rsquo;s 25th year at the time. I still watched it on a regular basis and so I had an idea. Why not send a special greeting card? One that would be fun to make and a bit different?</description>
+    </item>
+    
+    <item>
+      <title>Being Social</title>
+      <link>/posts/being-social/</link>
+      <pubDate>Mon, 14 Sep 2009 11:04:23 +0000</pubDate>
+      
+      <guid>/posts/being-social/</guid>
+      <description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignright&amp;rdquo; width=&amp;quot;240&amp;rdquo; caption=&amp;quot;Social Network by Luc Legay&amp;rdquo;][/caption] I have been thinking. This is not quite unusual but this time it had a reason: Augustín&amp;rsquo;s blog about Social Networks and Lydia&amp;rsquo;s identi.ca review. With the introduction of so called Social Networks and Social Features on a lot of websites, the way we see and use the internet has changed from broadcasting to joining conversations. The good news is that KDE - like most FLOSS communities - is very well set.</description>
+    </item>
+    
+  </channel>
+</rss>

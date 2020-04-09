@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on Alexandra&#39;s Log</title>
+    <link>/tags/web/</link>
+    <description>Recent content in web on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 31 Mar 2012 17:50:27 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is it that we learn?</title>
+      <link>/posts/learn-and-publish/</link>
+      <pubDate>Sat, 31 Mar 2012 17:50:27 +0000</pubDate>
+      
+      <guid>/posts/learn-and-publish/</guid>
+      <description>If you don’t read this entire post, or if you take nothing else away from it, then just remember these points:
+ When you learn something, write about it, and don’t do it just to make money off it. Don&amp;rsquo;t be afraid to make mistakes. Teaching others will help you learn. Encourage collaboration by allowing a free flow of constructive comments. If you make a mistake, fix it.  I think this is a winning strategy for all those who are involved in design or development blogging, as well as tutorial writing.</description>
+    </item>
+    
+    <item>
+      <title>Supporting Software Product Releases with Social Media Tools</title>
+      <link>/posts/supporting-releases-social-media/</link>
+      <pubDate>Sun, 20 Mar 2011 20:27:08 +0000</pubDate>
+      
+      <guid>/posts/supporting-releases-social-media/</guid>
+      <description>I&amp;rsquo;ve been sitting on this mind map for quite some time now but never got around to properly documenting my thoughts. Chances are that it will never happen so I&amp;rsquo;ll put it up for grabs. The mind map is huge. In an ideal world, a new release would be supported by a whole team pushing buttons on all sorts of social networks. The world is unfortunately rarely ideal, so the team will have to prioritize depending on its size, audience and preference.</description>
+    </item>
+    
+    <item>
+      <title>Community: my first steps</title>
+      <link>/posts/community-first-steps/</link>
+      <pubDate>Mon, 07 Mar 2011 20:34:00 +0000</pubDate>
+      
+      <guid>/posts/community-first-steps/</guid>
+      <description>Time flies. 15 years ago I published my first community fuelled website. It&amp;rsquo;s long gone of course but I can still tell the story. It all started with an anniversary One of my all-time favourite children&amp;rsquo;s TV show went into it&amp;rsquo;s 25th year at the time. I still watched it on a regular basis and so I had an idea. Why not send a special greeting card? One that would be fun to make and a bit different?</description>
+    </item>
+    
+    <item>
+      <title>KOffice Web Concept</title>
+      <link>/posts/koffice-web-concept/</link>
+      <pubDate>Thu, 30 Oct 2008 20:27:36 +0000</pubDate>
+      
+      <guid>/posts/koffice-web-concept/</guid>
+      <description>Things are in the move it seems and I am still all about drafting concepts for a renewal of the KOffice web presence. We have been discussing this on IRC a bit and it seems that quite some people liked the ideas, so I chose to present them here to give others the opportunity to think about it and maybe reuse it or make smart™ suggestions. ;) From simple to complex My starting point was to find a solution to present KOffice independently without doubling maintenance work and spreading ressources even further on the net.</description>
+    </item>
+    
+    <item>
+      <title>Going Web2.0?</title>
+      <link>/posts/going-web20/</link>
+      <pubDate>Fri, 03 Oct 2008 12:44:55 +0000</pubDate>
+      
+      <guid>/posts/going-web20/</guid>
+      <description>There has been some reflections going on about the use of the so called social web after our BoFs at Akademy this summer. I came across some difficulties during the last days though.
+Hasn&amp;rsquo;t the web been social all the time? In the early days, when I first came across the concept of the internet, usegroups and mailing-lists were entirely social. With broader acceptance of the internet itself, things changed to a more presenting approach.</description>
+    </item>
+    
+  </channel>
+</rss>

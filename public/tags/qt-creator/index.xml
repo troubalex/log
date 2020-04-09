@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qt Creator on Alexandra&#39;s Log</title>
+    <link>/tags/qt-creator/</link>
+    <description>Recent content in Qt Creator on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 03 Mar 2009 11:10:06 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/qt-creator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qt Release Madness</title>
+      <link>/posts/qt-release-madness/</link>
+      <pubDate>Tue, 03 Mar 2009 11:10:06 +0000</pubDate>
+      
+      <guid>/posts/qt-release-madness/</guid>
+      <description>Qt 4.5 is out. Did you hear the loud sigh of relief coming all the way from the Troll offices? Now it&amp;rsquo;s time for cake. Development has been working hard on this release, it&amp;rsquo;s packed with new features and it&amp;rsquo;s the first version to be released under the LGPL. There was a lot of good feedback beforehand and we&amp;rsquo;re confident that this release is a good one. Or as Jason puts it on his blog on the labs:</description>
+    </item>
+    
+  </channel>
+</rss>

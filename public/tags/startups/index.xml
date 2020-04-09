@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>startups on Alexandra&#39;s Log</title>
+    <link>/tags/startups/</link>
+    <description>Recent content in startups on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 22:13:17 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/startups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working at an Early-Stage Startup</title>
+      <link>/posts/working-at-startups/</link>
+      <pubDate>Sun, 07 Apr 2019 22:13:17 +0200</pubDate>
+      
+      <guid>/posts/working-at-startups/</guid>
+      <description>I get asked on a regular basis if it&amp;rsquo;s a good idea to apply for a job at an early stage startup. As usual, the answer is &amp;ldquo;it depends&amp;rdquo;. There are clear pros and cons, in my opinion.
+Pros  You learn incredibly fast You have a lot of influence on what your job looks like You are part of an extremely tight-knit team of people You get a lot more responsibility than in established companies  Cons  You usually need to figure out a lot of things on your own Priorities shift often and quickly Those shifts can feel random and uninvited Usually, nobody has time to mentor you You get a lot more responsibility than in established companies You might feel very lonely  I usually tell folks that it really depends on how secure they feel with what they know and what they don&amp;rsquo;t know.</description>
+    </item>
+    
+  </channel>
+</rss>

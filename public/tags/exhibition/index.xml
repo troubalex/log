@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exhibition on Alexandra&#39;s Log</title>
+    <link>/tags/exhibition/</link>
+    <description>Recent content in exhibition on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 06 Nov 2009 15:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/exhibition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organize a Booth and Keep Your Sanity</title>
+      <link>/posts/organize-a-booth-and-keep-your-sanity/</link>
+      <pubDate>Fri, 06 Nov 2009 15:41:00 +0000</pubDate>
+      
+      <guid>/posts/organize-a-booth-and-keep-your-sanity/</guid>
+      <description>After having a quick chat with Kévin Ottens on IRC we agreed that it would be useful to write up a small how-to explaining the Art of Booth Organization™ as a follow up on the how-to for sprints I posted earlier. He has been poking me about it repeatedly, so voilà, Monsieur, finalement, c&amp;rsquo;est fait. While writing down all those steps I realized that organizing a booth is more complex than I thought.</description>
+    </item>
+    
+    <item>
+      <title>On The Road Again</title>
+      <link>/posts/on-the-road-again/</link>
+      <pubDate>Tue, 31 Mar 2009 21:01:16 +0000</pubDate>
+      
+      <guid>/posts/on-the-road-again/</guid>
+      <description>Thanks to the German Bahn, I gained an hour offline in a train. All my tasks I could finish without the internet are done now, so I thought to myself I could as well blog something. I squeezed myself into the ICE to Basel SBB with a incredibly heavy suitcase, a backpack, a cardboard roll holding posters and my handbag. A whole hour later than planned because of severe stupidness on my side.</description>
+    </item>
+    
+  </channel>
+</rss>

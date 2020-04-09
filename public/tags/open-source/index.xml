@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on Alexandra&#39;s Log</title>
+    <link>/tags/open-source/</link>
+    <description>Recent content in open source on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 24 Apr 2019 09:05:26 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community Leadership and People Management</title>
+      <link>/posts/oss-community-management/</link>
+      <pubDate>Wed, 24 Apr 2019 09:05:26 +0200</pubDate>
+      
+      <guid>/posts/oss-community-management/</guid>
+      <description>I gave a presentation last night at a meetup in Bergen which was essentially about people management. I was invited to share my experience from building a remote team at VIBBIO but a lot of the points I covered apply to pretty much all kinds of teams in some form.
+One of the points I covered was basically how I adopted techniques I learned during my time at KDE. Later, that got me thinking about how those experiences prepared me for the work I am doing now, more than 10 years later.</description>
+    </item>
+    
+  </channel>
+</rss>

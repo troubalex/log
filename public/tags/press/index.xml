@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>press on Alexandra&#39;s Log</title>
+    <link>/tags/press/</link>
+    <description>Recent content in press on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 04 Aug 2008 17:55:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/press/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KDE 4.1 in the press</title>
+      <link>/posts/kde-41-in-the-press/</link>
+      <pubDate>Mon, 04 Aug 2008 17:55:34 +0000</pubDate>
+      
+      <guid>/posts/kde-41-in-the-press/</guid>
+      <description>I did some boring cut&amp;amp;paste work today to make up a page of press reviews after the last release. Maybe you&amp;rsquo;d like to read some of the reviews or send the URL to your friends or digg any article you like. Anyway&amp;hellip; a lot to read out there! If we missed anything, please let me know! Note to the German readers: I like the review at golem.de (scroll down to find the exact URL!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qt46 on Alexandra&#39;s Log</title>
+    <link>/tags/qt46/</link>
+    <description>Recent content in qt46 on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 02 Oct 2009 11:21:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/qt46/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qt 4.6 Beta Program</title>
+      <link>/posts/qt-4-6-beta-program/</link>
+      <pubDate>Fri, 02 Oct 2009 11:21:11 +0000</pubDate>
+      
+      <guid>/posts/qt-4-6-beta-program/</guid>
+      <description>We are approaching the release of Qt 4.6. To make it rock as much as we can we have just started a beta program where we collect feedback. If you&amp;rsquo;re interested in joining, please read the details on Volker&amp;rsquo;s blog. The program is open to everybody and and joining is not needed to test the beta.</description>
+    </item>
+    
+  </channel>
+</rss>

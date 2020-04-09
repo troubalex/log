@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>developer on Alexandra&#39;s Log</title>
+    <link>/tags/developer/</link>
+    <description>Recent content in developer on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 11 Jun 2009 17:31:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organize a Sprint and Keep Your Sanity</title>
+      <link>/posts/organize-a-sprint-and-keep-your-sanity/</link>
+      <pubDate>Thu, 11 Jun 2009 17:31:13 +0000</pubDate>
+      
+      <guid>/posts/organize-a-sprint-and-keep-your-sanity/</guid>
+      <description>I replied to an email today explaining my usual formula for organizing a developer sprint. While typing I thought I might as well blog about it so others can clone it too. Please, comment if you think I forgot something. [caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;aligncenter&amp;rdquo; width=&amp;quot;447&amp;rdquo; caption=&amp;quot;On the Edge by Wendy on flickr&amp;rdquo;][/caption]
+Set a Date First figure out which weekend will fit most possible attendees. Propose no more than three different ones in the beginning or you will never come to an agreement.</description>
+    </item>
+    
+  </channel>
+</rss>

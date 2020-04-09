@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qt on Alexandra&#39;s Log</title>
+    <link>/tags/qt/</link>
+    <description>Recent content in Qt on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 02 Oct 2009 11:21:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/qt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qt 4.6 Beta Program</title>
+      <link>/posts/qt-4-6-beta-program/</link>
+      <pubDate>Fri, 02 Oct 2009 11:21:11 +0000</pubDate>
+      
+      <guid>/posts/qt-4-6-beta-program/</guid>
+      <description>We are approaching the release of Qt 4.6. To make it rock as much as we can we have just started a beta program where we collect feedback. If you&amp;rsquo;re interested in joining, please read the details on Volker&amp;rsquo;s blog. The program is open to everybody and and joining is not needed to test the beta.</description>
+    </item>
+    
+    <item>
+      <title>OpenExpo revisited</title>
+      <link>/posts/openexpo-revisited/</link>
+      <pubDate>Mon, 06 Apr 2009 08:37:42 +0000</pubDate>
+      
+      <guid>/posts/openexpo-revisited/</guid>
+      <description>You know it&amp;rsquo;s spring when travels to Berne, Switzerland, hit you again. Regardless of the weather of course. Although this time, it did feel like spring over there and on the day I left for Oslo again, it was really warm, too warm actually for my thick woolen jacket. On the other hand, the jacket was more than needed on my walk from the bus stop to my apartment in Oslo.</description>
+    </item>
+    
+    <item>
+      <title>New Baby</title>
+      <link>/posts/new-baby/</link>
+      <pubDate>Wed, 01 Apr 2009 07:28:09 +0000</pubDate>
+      
+      <guid>/posts/new-baby/</guid>
+      <description>Today, we added a new member to the family of Qt websites. Some weeks ago, we had a creative coffee break in the Oslo office with rather bad coffee but nice cookies (did you know that Norwegians make really good cookies?). Sitting on the comfy couches, someone raised the issue (or should I say: challenge?) that we don&amp;rsquo;t have a place where we can show all the creative and uncommon projects that pop up on blogs and land in our inboxes from time to time.</description>
+    </item>
+    
+    <item>
+      <title>Qt Release Madness</title>
+      <link>/posts/qt-release-madness/</link>
+      <pubDate>Tue, 03 Mar 2009 11:10:06 +0000</pubDate>
+      
+      <guid>/posts/qt-release-madness/</guid>
+      <description>Qt 4.5 is out. Did you hear the loud sigh of relief coming all the way from the Troll offices? Now it&amp;rsquo;s time for cake. Development has been working hard on this release, it&amp;rsquo;s packed with new features and it&amp;rsquo;s the first version to be released under the LGPL. There was a lot of good feedback beforehand and we&amp;rsquo;re confident that this release is a good one. Or as Jason puts it on his blog on the labs:</description>
+    </item>
+    
+    <item>
+      <title>Tweets, blogs, comments and a new license</title>
+      <link>/posts/tweets-blogs-comments-and-a-new-license/</link>
+      <pubDate>Thu, 15 Jan 2009 22:36:43 +0000</pubDate>
+      
+      <guid>/posts/tweets-blogs-comments-and-a-new-license/</guid>
+      <description>We had some busy days over here at Qt Software. I spent most of yesterday digging through comments on blogs and forums, monitoring twitter and other social services and generally having eyes and ears on the discussions going on. Multitasking at its finest for the whole team. It was great to read through all the feedback and it was just amazing how much help we got from you fellow KDE friends on various places on the web.</description>
+    </item>
+    
+    <item>
+      <title>Cuteness!</title>
+      <link>/posts/cuteness/</link>
+      <pubDate>Thu, 11 Dec 2008 18:20:57 +0000</pubDate>
+      
+      <guid>/posts/cuteness/</guid>
+      <description>Where did the last weeks go? They seem to have passed me unnoticed behind my back&amp;hellip; Exciting things have happened. I spare you the details of the ups and downs I&amp;rsquo;ve been through like the nerve-wracking waiting for emails and simply pull out the most important news: I joined Qt Software&amp;lsquo;s marketing team as Web Community Manager three weeks ago. Being in dark and cold Oslo does need some adaptation but in reward I got really nice colleagues and free access to a wii and a pinball machine.</description>
+    </item>
+    
+  </channel>
+</rss>

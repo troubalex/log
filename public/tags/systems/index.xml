@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>systems on Alexandra&#39;s Log</title>
+    <link>/tags/systems/</link>
+    <description>Recent content in systems on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 19 Oct 2008 18:33:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Systems</title>
+      <link>/posts/systems/</link>
+      <pubDate>Sun, 19 Oct 2008 18:33:33 +0000</pubDate>
+      
+      <guid>/posts/systems/</guid>
+      <description>After a flood of emails - with increasing frequency - to various people, a completely useless document, and some tearing at hair on my side, I managed to organize a booth and gather staff for Systems in Munich again. So if you plan to visit the exhibition don&amp;rsquo;t forget to drop by and say hello to Dominik, Eckhart, Frederik and Holger who devote quite some time to presenting KDE to business people wearing suits.</description>
+    </item>
+    
+  </channel>
+</rss>

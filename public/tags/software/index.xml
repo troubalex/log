@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Alexandra&#39;s Log</title>
+    <link>/tags/software/</link>
+    <description>Recent content in Software on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 20 Mar 2011 20:27:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supporting Software Product Releases with Social Media Tools</title>
+      <link>/posts/supporting-releases-social-media/</link>
+      <pubDate>Sun, 20 Mar 2011 20:27:08 +0000</pubDate>
+      
+      <guid>/posts/supporting-releases-social-media/</guid>
+      <description>I&amp;rsquo;ve been sitting on this mind map for quite some time now but never got around to properly documenting my thoughts. Chances are that it will never happen so I&amp;rsquo;ll put it up for grabs. The mind map is huge. In an ideal world, a new release would be supported by a whole team pushing buttons on all sorts of social networks. The world is unfortunately rarely ideal, so the team will have to prioritize depending on its size, audience and preference.</description>
+    </item>
+    
+    <item>
+      <title>Projekt der Woche</title>
+      <link>/posts/projekt-der-woche/</link>
+      <pubDate>Wed, 16 Apr 2008 20:03:29 +0000</pubDate>
+      
+      <guid>/posts/projekt-der-woche/</guid>
+      <description>OpenStreetMap  Das ist natürlich Schmu, mit dem Projekt der Woche. Ich werde nie im Leben einmal in der Woche ein Projekt hier vorstellen. Allerdings war es das Gesprächthema am Küchentisch diese und vorige Woche. Mann und Sohn haben ziemlich viel Zeit damit verbracht, Nippes und das Agnesviertel zu kartografieren. Jetzt gibt es ganz viele neue Kioske und Bushaltestellen — wichtig für kleine Menschen - und (Einbahn–)Straßen, Häuser, Schulen, Park- und Spielplätze und Kneipen — wichtig für große Menschen.</description>
+    </item>
+    
+    <item>
+      <title>Entwicklungshilfe</title>
+      <link>/posts/untitled/</link>
+      <pubDate>Sun, 28 Oct 2007 11:06:10 +0000</pubDate>
+      
+      <guid>/posts/untitled/</guid>
+      <description>Eine interessante Frage für mich lautet immer mal wieder: Wie bringe ich den weniger interessierten, weniger computer-affinen Menschen vor den Rechner? Spiele, Emails, Internet. Logisch. Aber wie nehme ich die Skepsis vor der Text-Editoren? Oder der Kommandozeile? Wie kann ich zeigen, dass diese Dinge von jedem benutzt werden können, der in der Lage ist, ein paar Begriffe auswendig zu lernen? Es geht über die richtigen Programme, die etwas können, das der Nutzer unbedingt braucht (oder brauchen will).</description>
+    </item>
+    
+  </channel>
+</rss>

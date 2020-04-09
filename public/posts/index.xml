@@ -1,0 +1,876 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Alexandra&#39;s Log</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on Alexandra&#39;s Log</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Wed, 24 Apr 2019 09:05:26 +0200</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Community Leadership and People Management</title>
+			<link>/posts/oss-community-management/</link>
+			<pubDate>Wed, 24 Apr 2019 09:05:26 +0200</pubDate>
+			
+			<guid>/posts/oss-community-management/</guid>
+			<description>I gave a presentation last night at a meetup in Bergen which was essentially about people management. I was invited to share my experience from building a remote team at VIBBIO but a lot of the points I covered apply to pretty much all kinds of teams in some form.
+One of the points I covered was basically how I adopted techniques I learned during my time at KDE. Later, that got me thinking about how those experiences prepared me for the work I am doing now, more than 10 years later.</description>
+			<content type="html"><![CDATA[<p>I gave a presentation last night at a meetup in Bergen which was essentially about people management. I was invited to share my experience from building a remote team at VIBBIO but a lot of the points I covered apply to pretty much all kinds of teams in some form.</p>
+<p>One of the points I covered was basically how I adopted techniques I learned during my time at KDE. Later, that got me thinking about how those experiences prepared me for the work I am doing now, more than 10 years later.</p>
+<p>It&rsquo;s maybe not surprising that the needs of individual contributors don&rsquo;t differ much: we all want to belong, feel safe, and be seen, and we want recognition for the work we do. Pretty much all I did when working with KDE and Qt communities was centred around those principles.</p>
+<p>The struggle with written communication is pretty much the same too. Language barriers, different styles, and all kinds of missteps in tone all need constant attention and effort. I spend time and energy on moderating mailing lists and forums, and later supporting the volunteer moderators I had recruited from the community.</p>
+<p>It&rsquo;s funny how things change for the better, once someone makes a conscious effort in these areas.</p>
+<p>When it comes to building and leading the team at VIBBIO, I focus my efforts in pretty much the same areas. The only difference is my formal position as manager.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Working at an Early-Stage Startup</title>
+			<link>/posts/working-at-startups/</link>
+			<pubDate>Sun, 07 Apr 2019 22:13:17 +0200</pubDate>
+			
+			<guid>/posts/working-at-startups/</guid>
+			<description>I get asked on a regular basis if it&amp;rsquo;s a good idea to apply for a job at an early stage startup. As usual, the answer is &amp;ldquo;it depends&amp;rdquo;. There are clear pros and cons, in my opinion.
+Pros  You learn incredibly fast You have a lot of influence on what your job looks like You are part of an extremely tight-knit team of people You get a lot more responsibility than in established companies  Cons  You usually need to figure out a lot of things on your own Priorities shift often and quickly Those shifts can feel random and uninvited Usually, nobody has time to mentor you You get a lot more responsibility than in established companies You might feel very lonely  I usually tell folks that it really depends on how secure they feel with what they know and what they don&amp;rsquo;t know.</description>
+			<content type="html"><![CDATA[<p>I get asked on a regular basis if it&rsquo;s a good idea to apply for a job at an early stage startup. As usual, the answer is &ldquo;it depends&rdquo;. There are clear pros and cons, in my opinion.</p>
+<h2 id="pros">Pros</h2>
+<ul>
+<li>You learn incredibly fast</li>
+<li>You have a lot of influence on what your job looks like</li>
+<li>You are part of an extremely tight-knit team of people</li>
+<li>You get a lot more responsibility than in established companies</li>
+</ul>
+<h2 id="cons">Cons</h2>
+<ul>
+<li>You usually need to figure out a lot of things on your own</li>
+<li>Priorities shift often and quickly</li>
+<li>Those shifts can feel random and uninvited</li>
+<li>Usually, nobody has time to mentor you</li>
+<li>You get a lot more responsibility than in established companies</li>
+<li>You might feel very lonely</li>
+</ul>
+<p>I usually tell folks that it really depends on how secure they feel with what they know and what they don&rsquo;t know. Chances are that you have to jump into something completely unexpected that <em>will</em> make you feel uncomfortable. It&rsquo;s okay to feel like that but you should be honest with yourself: can you sit with the discomfort and do the best you can?</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Hello World</title>
+			<link>/posts/hello-world/</link>
+			<pubDate>Wed, 03 Apr 2019 23:16:39 +0200</pubDate>
+			
+			<guid>/posts/hello-world/</guid>
+			<description>Inspired by (okay, stolen from) Elisabeth Irgens
+Let&amp;rsquo;s try something different. I need to get my perfectionism under control when it comes to writing, so I decided to follow Elisabeth&amp;rsquo;s example, and try a low-key way of writing down things I learn or stumble upon. Kind of like a log.
+I constantly learn new things about building product, growing a team, and creating a company from nothing at VIBBIO, I might as well jot it down.</description>
+			<content type="html"><![CDATA[<p><em>Inspired by (okay, stolen from) <a href="https://elisabethirgens.github.io/notes/2017/06/hello-world/">Elisabeth Irgens</a></em></p>
+<p>Let&rsquo;s try something different. I need to get my perfectionism under control when it comes to writing, so I decided to follow Elisabeth&rsquo;s example, and try a low-key way of writing down things I learn or stumble upon. Kind of like a log.</p>
+<p>I constantly learn new things about building product, growing a team, and creating a company from nothing at <a href="https://vibbio.com">VIBBIO</a>, I might as well jot it down.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>What is it that we learn?</title>
+			<link>/posts/learn-and-publish/</link>
+			<pubDate>Sat, 31 Mar 2012 17:50:27 +0000</pubDate>
+			
+			<guid>/posts/learn-and-publish/</guid>
+			<description>If you don’t read this entire post, or if you take nothing else away from it, then just remember these points:
+ When you learn something, write about it, and don’t do it just to make money off it. Don&amp;rsquo;t be afraid to make mistakes. Teaching others will help you learn. Encourage collaboration by allowing a free flow of constructive comments. If you make a mistake, fix it.  I think this is a winning strategy for all those who are involved in design or development blogging, as well as tutorial writing.</description>
+			<content type="html"><![CDATA[<blockquote>
+<p>If you don’t read this entire post, or if you take nothing else away from it, then just remember these points:</p>
+<ul>
+<li>When you learn something, write about it, and don’t do it just to make money off it.</li>
+<li>Don&rsquo;t be afraid to make mistakes.</li>
+<li>Teaching others will help you learn.</li>
+<li>Encourage collaboration by allowing a free flow of constructive comments.</li>
+<li>If you make a mistake, fix it.</li>
+</ul>
+<p>I think this is a winning strategy for all those who are involved in design or development blogging, as well as tutorial writing. -- <a href="http://www.smashingmagazine.com/2012/03/30/publish-what-you-learn/" title="Publish what you learn">Publish What You Learn</a> by <a href="http://www.smashingmagazine.com/author/louis-lazaris/?rel=author" title="Louis Lazaris">Louis Lazaris</a> on <a href="http://smashingmagazine.com" title="Smashing Magazine">Smashing Magazine</a>.</p>
+</blockquote>
+<p>My first reaction was &ldquo;duh!&quot;. But then I thought again and asked myself if I really do write about the things I learn. Obviously, I dont. Since it&rsquo;s so obvious to me, the question is &ldquo;why not?&rdquo; It seems to boil down to a couple of reasons: First, I&rsquo;m lazy. Blogging is a lot of work and I don&rsquo;t always have the energy, or patience, to sit down after work and write. I also have other interests, so the lack of time doesn&rsquo;t really help either. Then, I tend to over-think it. Writing a blog appears to be a major undertaking: I hardly ever manage to think of a blog as a relatively limited task, even if I don&rsquo;t plan to write a comprehensive project report. Which is a bit silly because I am happily using <a href="http://twitter.com/troubalex">Twitter</a> and <a href="http://troubalex.de">Posterous</a> to capture all my not so very brilliant thoughts and comments. I could as well use it for other things. I also constantly battle my inner critic* that keeps telling me that everything has been said about a topic already, and most likely by more qualified or experienced people than me. Chances are, they are better writers, too. Of course, I <strong>know</strong> it&rsquo;s stupid, it still sets the bar for myself too high to even get started. Finally, and that is the most interesting part, I don&rsquo;t necessarily see the things I have learned. How could I publish them? I am constantly learning. If I should make a list of the top 5 things I have learnt during the last week, for example, I would be at a loss. Fine, I learnt some useful tricks in spreadsheets but that is probably not very exciting. Speaking of it, the actual insight I took away from this week was probably that they cannot be avoided for certain tasks, no matter how hard you try. In this particular case, I was &ndash; and still am &ndash; working on a content inventory of qt.nokia.com, and after trying to squeeze it all into a mind map I carved in, and put all the pages into a spreadsheet. The bigger thing I learnt however, was how to compile a content inventory that actually makes sense. To blog about this would surely be a major undertaking, and I am certain someone has written extensively about it already&hellip; *) Wonderful article by <a href="http://denisejacobs.com/" title="Denise Jacobs">Denise Jacobs</a> on the topic: <a href="http://www.alistapart.com/articles/banishing-your-inner-critic/">Banishing Your Inner Critic</a> on A List Apart.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Supporting Software Product Releases with Social Media Tools</title>
+			<link>/posts/supporting-releases-social-media/</link>
+			<pubDate>Sun, 20 Mar 2011 20:27:08 +0000</pubDate>
+			
+			<guid>/posts/supporting-releases-social-media/</guid>
+			<description>I&amp;rsquo;ve been sitting on this mind map for quite some time now but never got around to properly documenting my thoughts. Chances are that it will never happen so I&amp;rsquo;ll put it up for grabs. The mind map is huge. In an ideal world, a new release would be supported by a whole team pushing buttons on all sorts of social networks. The world is unfortunately rarely ideal, so the team will have to prioritize depending on its size, audience and preference.</description>
+			<content type="html"><![CDATA[<p>I&rsquo;ve been sitting on this mind map for quite some time now but never got around to properly documenting my thoughts. Chances are that it will never happen so I&rsquo;ll put it up for grabs. The mind map is huge. In an ideal world, a new release would be supported by a whole team pushing buttons on all sorts of social networks. The world is unfortunately rarely ideal, so the team will have to prioritize depending on its size, audience and preference. The good news is that it will work just fine. This is a humongous amount of work that will pay off nicely if done right but you certainly don&rsquo;t want to plan with all of this for a patch release. [caption id=&quot;attachment_353&rdquo; align=&quot;aligncenter&rdquo; width=&quot;440&rdquo; caption=&quot;Supporting Software Product Releases with Social Media Tools (click for full size)&quot;]<a href="http://untangled.biz/blog/wp-content/uploads/Supporting-Software-Product-Releases-with-Social-Media-Tools.png"><img src="http://untangled.biz/blog/wp-content/uploads/Supporting-Software-Releases-with-Social-Media-Tools-Thumb-440x184.png" alt="Supporting Software Product Releases with Social Media Tools" title="Supporting Software Product Releases with Social Media Tools Thumb"></a>[/caption] The social networking sites mentioned can of course be exchanged with sites that best meet your needs and your audience. An important part of every release is obviously the announcement itself. Preparing and writing a release announcement - depending on the size of the project and the number of people involved - warrants a mind map of its own. However, some of the tasks outlined here overlap with preparations for the announcement. Coordination does make sense, as usual. You can download the original XMind file <a href="http://dl.dropbox.com/u/1849057/SocialMediaSupportforMajorReleases.xmind">here</a>. If you&rsquo;re looking for some best practices, check out <a href="https://docs.google.com/View?id=dct5v3bv_50gsjb8jcx">this document</a> written for the KDE 4.2 release.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Community: my first steps</title>
+			<link>/posts/community-first-steps/</link>
+			<pubDate>Mon, 07 Mar 2011 20:34:00 +0000</pubDate>
+			
+			<guid>/posts/community-first-steps/</guid>
+			<description>Time flies. 15 years ago I published my first community fuelled website. It&amp;rsquo;s long gone of course but I can still tell the story. It all started with an anniversary One of my all-time favourite children&amp;rsquo;s TV show went into it&amp;rsquo;s 25th year at the time. I still watched it on a regular basis and so I had an idea. Why not send a special greeting card? One that would be fun to make and a bit different?</description>
+			<content type="html"><![CDATA[<p>Time flies. 15 years ago I published my first community fuelled website. It&rsquo;s long gone of course but I can still tell the story. <img src="http://untangled.biz/blog/wp-content/uploads/Screen-shot-2011-03-07-at-9.07.22-PM.png" alt="" title="Maus Doodle"></p>
+<h3 id="it-all-started-with-an-anniversary">It all started with an anniversary</h3>
+<p>One of my all-time favourite children&rsquo;s TV show went into it&rsquo;s 25th year at the time. I still watched it on a regular basis and so I had an idea. Why not send a special greeting card? One that would be fun to make and a bit different?</p>
+<h3 id="there-was-the-plan">There was the plan</h3>
+<p>I had been playing with HTML and spent a decent amount of time on mailing-lists and in usenet groups. So I sent out a call to action to some German groups and asked for small text contributions to the greeting card . And I asked people to spread the idea. I don&rsquo;t remember how many people replied but in the end I had a nice collection. I charmed a friend to upload my orange page to the tiny webspace he had available at university.</p>
+<h3 id="lesson-learned">Lesson learned</h3>
+<p>Looking back it appears to be a small thing but it taught me something important: if you have an idea, run with it. If others like it, run the whole way. The tools have changed and <a href="http://developer.qt.nokia.com">my approach to community has matured</a> but at the heart of it, this lesson still stands. (Thank you, <a href="http://www.facebook.com/birte.lilienthal">Birte</a>, for reminding me today!)</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Career opportunities and YouTube videos</title>
+			<link>/posts/career-opportunities-and-youtube-videos/</link>
+			<pubDate>Tue, 02 Mar 2010 18:06:38 +0000</pubDate>
+			
+			<guid>/posts/career-opportunities-and-youtube-videos/</guid>
+			<description>Hum&amp;hellip; I guess it&amp;rsquo;s been a while since I last blogged. This time however I have something to show off: Till&amp;rsquo;s and my presentation at CampKDE is on YouTube. And without further ado &amp;ndash; enjoy the show. The slides are quite visible in the video but I thought embedding them here wouldn&amp;rsquo;t hurt.
+View more presentations from Alexandra Leisse.
+If you are interested in the rest of the talks, head over to the KDE Promo channel on YouTube and take a look.</description>
+			<content type="html"><![CDATA[<p>Hum&hellip; I guess it&rsquo;s been a while since I last blogged. This time however I have something to show off: <a href="http://hubbahubba.de">Till&rsquo;s</a> and my presentation at <a href="http://camp.kde.org">CampKDE</a> is on YouTube. And without further ado &ndash; enjoy the show.  The slides are quite visible in the video but I thought embedding them here wouldn&rsquo;t hurt.</p>
+<p>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/troubalex">Alexandra Leisse</a>.</p>
+<p>If you are interested in the rest of the talks, head over to the <a href="http://www.youtube.com/user/kdepromo">KDE Promo channel</a> on YouTube and take a look. Slides are available from <a href="http://www.kde.org/kdeslides">here</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Organize a Booth and Keep Your Sanity</title>
+			<link>/posts/organize-a-booth-and-keep-your-sanity/</link>
+			<pubDate>Fri, 06 Nov 2009 15:41:00 +0000</pubDate>
+			
+			<guid>/posts/organize-a-booth-and-keep-your-sanity/</guid>
+			<description>After having a quick chat with Kévin Ottens on IRC we agreed that it would be useful to write up a small how-to explaining the Art of Booth Organization™ as a follow up on the how-to for sprints I posted earlier. He has been poking me about it repeatedly, so voilà, Monsieur, finalement, c&amp;rsquo;est fait. While writing down all those steps I realized that organizing a booth is more complex than I thought.</description>
+			<content type="html"><![CDATA[<p>After having a quick chat with <a href="http://ervin.ipsquad.net/">Kévin Ottens</a> on IRC we agreed that it would be useful to write up a small how-to explaining the Art of Booth Organization™ as a follow up on the <a href="http://untangled.biz/blog/kde/organize-a-sprint-and-keep-your-sanity/">how-to for sprints</a> I posted earlier. He has been poking me about it repeatedly, so <em>voilà, Monsieur, finalement, c&rsquo;est fait</em>. While writing down all those steps I realized that organizing a booth is more complex than I thought. Chances are high that I have forgotten something more or less important. The comment section is yours! [caption id=&rdquo;&rdquo; align=&quot;aligncenter&rdquo; width=&quot;450&rdquo; caption=&quot;KDE gives you light by funadium on Flickr&rdquo;]<a href="http://www.flickr.com/photos/funadium/2394912011/"><img src="http://farm4.static.flickr.com/3038/2394912011_e53682de91.jpg" alt="KDE gives you light by funadium on Flickr" title="KDE gives you light by funadium on Flickr"></a>[/caption] Let&rsquo;s say you come across an interesting event in your area or elsewhere and you think KDE should be present and have a stand in whatever shape and size. How do you proceed?</p>
+<h3 id="register-a-booth">Register a booth</h3>
+<p>This is obviously the first step. Usually, the call for projects closes several weeks before the event takes place. As soon as it is open and you have decided that you&rsquo;d like to be there send an email to the kde-promo list. Ask if anybody has already registered a booth and/or would be interested to organize one together with yourself. Go to <a href="http://kde.org">kde.org</a> and copy and paste the usual about blurb on the front page for the registration or look for one of the translated versions. It keeps things consistent and saves you a lot of thinking.</p>
+<h3 id="find-staff">Find staff</h3>
+<p>Don&rsquo;t be afraid if noone speaks up when you ask for physical presence. The usual reaction is something along the lines of &ldquo;what do I know today about what is going to happen in 6 weeks?&quot;. In most cases you will find someone coming along and do booth duty. Don&rsquo;t be afraid to get on people&rsquo;s nerves. Set up a wiki page on <a href="http://community.kde.org/">community.kde.org</a> (which is currently a building ground, but fear not!) to collect all information regarding the event and the staff. This will help you to organize accomodation and keep an overview. Keep nagging people to put themselves onto a list there and <strong>set a deadline</strong>**!**</p>
+<h3 id="order-material">Order material</h3>
+<p>An empty booth does not really make sense, you will need something to show. Good news is that the KDE e.V. has an awsome booth box that can be sent around for events. Ask for it on the kde-promo list and Claudia will let you know if it is possible. She might also just send you t-shirts and stickers and other things via mail if shipping the whole box is not feasible. For any place outside Europe, we are still looking into the options we have for booths. Ask on the list if you are planning to organize one and need anything. If you have to manage without the booth box you will need to think about hardware, too. Usually one or two laptops with a recent KDE installation including some demo data like images, music, movies, office files etc. The upcoming marketing sprint in Stuttgart is supposed to come up with a clever solution to the problem of demo data, watch out for updates from that front.</p>
+<h3 id="make-a-budget-and-collect-travel-details">Make a budget and collect travel details</h3>
+<p>You may have to rely on non-locals for your booth who need funding for their travels. Find a room for them and ask them to add their travel costs to the wiki. Again, <strong>set a deadline!</strong> Some weeks prior to the event you should have all the costs collected on the wiki and send an email to kde-ev-board [at] kde.org and ask for funding. You should get a positive reply in a timely fashion and then you can push people to book their travel. Everybody staffing the booth should put their arrival and departure times into the wiki and provide the mobile phone number. That way you will have all the information you need at hand and can reach everybody if anything goes wrong. If you are collecting mobile numbers privately I recommend making a list and sending that to everybody helping out at the event.</p>
+<h3 id="set-times">Set times</h3>
+<p>Someone will have to take care of setting up things before the event starts and packing up after the end. That does not necessarily have to be you. Make sure that this is clarified beforehand so you don&rsquo;t get stressed when the event starts. Then let everybody know where they have to be and at what time. If the event is big and you have enough staff it may be a good idea to make a schedule for booth duty.</p>
+<h3 id="relax">Relax!</h3>
+<p>As soon as the event has started the worst things are over. Now it is time to enjoy what you are doing. Show those great technologies to interested people, answer user questions and look for the &ldquo;Aha!&rdquo; expression on their faces, talk to the folks at the other booths and all in all have a good time!</p>
+<h3 id="post-event-activities">Post-event activities</h3>
+<p>Sometimes you receive questions you didn&rsquo;t know how to answer or a concrete request. Remember to follow up on them when you&rsquo;re back and get the right people in touch with each other. If you have the time write a short report on the event with all the things that both went well and that didn&rsquo;t to the kde-promo list. We&rsquo;re always interested in things like that. Oh, and what about a blog? Or a story for the <a href="http://dot.kde.org">dot</a>?</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Qt 4.6 Beta Program</title>
+			<link>/posts/qt-4-6-beta-program/</link>
+			<pubDate>Fri, 02 Oct 2009 11:21:11 +0000</pubDate>
+			
+			<guid>/posts/qt-4-6-beta-program/</guid>
+			<description>We are approaching the release of Qt 4.6. To make it rock as much as we can we have just started a beta program where we collect feedback. If you&amp;rsquo;re interested in joining, please read the details on Volker&amp;rsquo;s blog. The program is open to everybody and and joining is not needed to test the beta.</description>
+			<content type="html"><![CDATA[<p>We are approaching the release of Qt 4.6. To make it rock as much as we can we have just started a beta program where we collect feedback. If you&rsquo;re interested in joining, please read the <a href="http://labs.trolltech.com/blogs/2009/09/30/join-the-qt-46-beta-program/">details on Volker&rsquo;s blog</a>. The program is open to everybody and and joining is not needed to test the beta.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KDE has Super Cow Powers Too</title>
+			<link>/posts/kde-has-super-cow-powers-too/</link>
+			<pubDate>Sat, 26 Sep 2009 21:28:30 +0000</pubDate>
+			
+			<guid>/posts/kde-has-super-cow-powers-too/</guid>
+			<description>Ariya complained about me being too theoretical again and wanted examples for my last blog. So here we go. One of my alltime favourite online companies is moo.com. I bet you heard me talking about it already. They make those lovely mini cards, post cards, shiny little stickers, and cleverly use a lot of 3rd party services on the web both for their products and their marketing. Let&amp;rsquo;s have a look.</description>
+			<content type="html"><![CDATA[<p><a href="http://ariya.blogspot.com/">Ariya</a> complained about me being too theoretical again and wanted examples for <a href="http://untangled.biz/blog/net/being-social">my last blog</a>. So here we go. One of my alltime favourite online companies is <a href="http://moo.com">moo.com</a>. I bet you heard me talking about it already. They make those lovely mini cards, post cards, shiny little stickers, and cleverly use a lot of 3rd party services on the web both for their products and their marketing. Let&rsquo;s have a look. [caption id=&rdquo;&rdquo; align=&quot;aligncenter&rdquo; width=&quot;450&rdquo; caption=&quot;MOO Card Storage by visualdensity on flickr&rdquo;]<a href="http://www.flickr.com/photos/visualdensity/320370926/"><img src="http://farm1.static.flickr.com/141/320370926_3da0bc3179.jpg" alt="MOO Card Storage by visualdensity on flickr" title="MOO Card Storage"></a>[/caption] I first heard about MOO - surprise - on a blog. <a href="http://webworkerdaily.com/2007/04/18/open-thread-whats-on-your-business-cards">WWD</a> had an article about business cards which hit me exactly in the right moment, so to speak. I needed cards to give out to conductors and colleagues I met at concerts that needed to be easily connected back to <em>that soprano</em> at <em>that concert</em>. So I headed over to MOO and was thrilled. Apart from the clever product portfolio MOO is interesting to look at from a community perspective too.</p>
+<h2 id="moo-knows-where-their-customers-are">MOO knows where their customers are.</h2>
+<p>If you choose a product on the MOO website you are given the option to import your photos from <a href="http://www.flickr.com" title="Flickr">flickr</a>, <a href="http://www.bebo.com" title="Bebo">bebo</a>, <a href="http://facebook.com" title="Facebook">facebook</a> or <a href="http://etsy.com">etsy</a>. Since many people upload polished images to those sites it makes total sense to use those 3rd party APIs and make it as easy as possible to use those photos. But that is only the product site of things. MOO is present on all of the services they integrate into their website. A quick flickr search gave me 185.545 image results and 2 groups dedicated to MOO products. One of them started by MOO fans dedicated to trading MOO cards.</p>
+<h2 id="why-is-that-interesting">Why is that interesting?</h2>
+<p>MOO&rsquo;s customers apparently already use a service like flickr to store their photos and have them printed onto the products they order. As they are custom made and unique in style they come with that special excitement about individualism that then motivates us to show them around. What would be more natural than uploading photos of them to flickr and blog about it? By smartly integrating a service like flickr into the product MOO builds a community as their main differentiator and gains an enourmous amount of visibility. It is no surprise that bloggers picked up on the small British business quickly after they launched their website.</p>
+<h2 id="people-make-the-difference">People make the difference.</h2>
+<p>There is a zillion online printing services out there, you can order business cards everywhere. Just like you can download software everywhere on the net. The difference is the community around it. People form groups around things they like, be it cards or software, and team up to help each other or simply exchange thoughts and ideas. Members of these groups will then tell their friends and the groups will grow by themselves making the product more visible and in the long-term more successful.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Being Social</title>
+			<link>/posts/being-social/</link>
+			<pubDate>Mon, 14 Sep 2009 11:04:23 +0000</pubDate>
+			
+			<guid>/posts/being-social/</guid>
+			<description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignright&amp;rdquo; width=&amp;quot;240&amp;rdquo; caption=&amp;quot;Social Network by Luc Legay&amp;rdquo;][/caption] I have been thinking. This is not quite unusual but this time it had a reason: Augustín&amp;rsquo;s blog about Social Networks and Lydia&amp;rsquo;s identi.ca review. With the introduction of so called Social Networks and Social Features on a lot of websites, the way we see and use the internet has changed from broadcasting to joining conversations. The good news is that KDE - like most FLOSS communities - is very well set.</description>
+			<content type="html"><![CDATA[<p>[caption id=&rdquo;&rdquo; align=&quot;alignright&rdquo; width=&quot;240&rdquo; caption=&quot;Social Network by Luc Legay&rdquo;]<a href="http://www.flickr.com/photos/luc/1824234195/"><img src="http://farm3.static.flickr.com/2227/1824234195_e6b913c563_m.jpg" alt="Social Network by Luc Legay" title="Social Network"></a>[/caption] I have been thinking. This is not quite unusual but this time it had a reason: <a href="http://toscalix.blogspot.com/">Augustín&rsquo;s</a> blog about <a href="http://toscalix.blogspot.com/2009/09/social-networks-new-challenge-and-new.html">Social Networks</a> and <a href="http://blog.lydiapintscher.de/">Lydia&rsquo;s</a> identi.ca <a href="http://blog.lydiapintscher.de/2009/09/13/identi-ca-got-it-right/">review</a>. With the introduction of so called Social Networks and Social Features on a lot of websites, the way we see and use the internet has changed from broadcasting to joining conversations. The good news is that KDE - like most FLOSS communities - is very well set.</p>
+<h2 id="markets-are-conversations">&ldquo;Markets are conversations&rdquo;</h2>
+<p>When the <a href="http://www.cluetrain.com/">Cluetrain Manifesto</a> hit the public 10 years ago, it proclaimed a radical change in marketing with their 95 theses. The times of corporate controlled messages being broadcasted to an attentive audience are over, people want to be involved into how a product is developped and marketed, they want to see the human face behind the corporate walls, they want to be able to get in touch with those working on the product unfiltered by boring customer support. And they want the ability to spread the word about products they like. Sounds familiar, doesn&rsquo;t it? The big corporations have been adopting to this new reality for a while now and it seems that they finally understand that building a relation with their customers is what they need instead of huge and expensive ad campaigns. To build those they have to be part of their audiences&rsquo; lives.</p>
+<h2 id="community-is-the-key">Community is the key</h2>
+<p>What sounds revolutionary in a world of corporate PR is business as usual for KDE:</p>
+<ul>
+<li>the development of a product happens in the open</li>
+<li>there is no wall between internal and external</li>
+<li>developers working on the project are known and reachable via mailing lists and IRC</li>
+<li>developers take part in events and listen to feedback</li>
+<li>many people in the wider circle spread the word and evangelize our products</li>
+</ul>
+<p>We have been building relations to users for ages, it is our biggest advantage. We have established a big and healthy community by being part of it for years. We understand what users want because we use our software and listen to what they ask for. And we are honest.</p>
+<h2 id="corporations-start-playing-to-our-rules">Corporations start playing to our rules</h2>
+<p>With the adoption of social media techniques in business, those basic rules of community building and user interaction make it into mainstream. Seen from our cozy corner of niche this might indeed be a scary process: with new tools like microblogging new people join the conversation and our old patterns of communication do not necessarily work any longer. But we do have a solid basis of community work and years of experience to build upon. Some might be worried about losing control over what is said to whom combined with an unmanageable amount of people who might read and spread the information. But is this really a new situation? I believe it is not. It has never been possible to control what users tell their friends, their bosses or during talks at events. It was just less obvious. We have to believe that everyone acts to their best knowledge, all we can do is prepare those who talk about KDE in the best possible way. Don&rsquo;t be scared, <a href="http://www.thewhuffiefactor.com/">embrace the chaos</a>. What do you think?</p>
+<p><a href="http://reblog.zemanta.com/zemified/c4a7d222-2b64-4bca-8f6a-15b0fcd815e1/" title="Reblog this post [with Zemanta]"><img src="http://img.zemanta.com/reblog_e.png?x-id=c4a7d222-2b64-4bca-8f6a-15b0fcd815e1" alt="Reblog this post [with Zemanta]"></a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Home At Last</title>
+			<link>/posts/home-at-last/</link>
+			<pubDate>Mon, 13 Jul 2009 11:05:01 +0000</pubDate>
+			
+			<guid>/posts/home-at-last/</guid>
+			<description>Three weeks of travel are finally over. I enjoyed most of it but it took it&amp;rsquo;s toll. One of the reasons I didn&amp;rsquo;t feel the summit was as successful for me personally than it could have been. During the four days in Berlin I spent mostly in the halls of LinuxTag, I had the energy and ease to walk around and talk to people although the preparation of the whole event had taken quite some effort from my side.</description>
+			<content type="html"><![CDATA[<p>Three weeks of travel are finally over. I enjoyed most of it but it took it&rsquo;s toll. One of the reasons I didn&rsquo;t feel the summit was as successful for me personally than it could have been. During the four days in Berlin I spent mostly in the halls of <a href="http://linuxtag.org">LinuxTag</a>, I had the energy and ease to walk around and talk to people although the preparation of the whole event had taken quite some effort from my side. Luckily, all went smoothly, including our <em>Friends of Qt</em> dinner. It was unfortunate that it collided with the Social Event the LinuxTag organized, but I could no longer wait for the date at one point and had to fix the restaurant. [caption id=&quot;attachment_231&rdquo; align=&quot;aligncenter&rdquo; width=&quot;440&rdquo; caption=&quot;Trolls in Berlin&rdquo;]<a href="http://untangled.biz/blog/wp-content/uploads/CIMG0215.JPG"><img src="http://untangled.biz/blog/wp-content/uploads/CIMG0215-440x330.jpg" alt="Trolls in Berlin" title="Trolls in Berlin"></a>[/caption] I had good conversations with colleagues, friends and new contacts. Especially, the folk at the <a href="http://videolan.org">VLC</a> booth was fun and good to talk to. And there were all those who manned the stands of the French OSS startup scene. France was this year&rsquo;s focus or partner or whatever initiative at LinuxTag. Together with Till Adam I joined a semi-boring networking dinner where I learned very interesting things about <a href="http://vizionr.fr/">French radio broadcasting</a>. But that was by far not all I learned. During those events I usually act like a sponge: I absorb everything that might be interesting or worth knowing if not right now then maybe at one point. I can&rsquo;t put my finger on anything specific but it <strong>will</strong> be useful. Of course, I did not get half as much sleep as I would have needed (discipline, dear!) and I was really really happy about the bathtub in my room when my back had passed the point of the usual strain. To sum it up, I was pretty tired when I returned to Oslo where <a href="http://chani.wordpress.com/2009/06/30/berlin-and-oslo/">Chani</a> joined me and I tried to clean up my work before leaving for Gran Canaria. I hoped to have more time for sight seeing or other fun things with her but that was just an illusion (next time, Chani, promise). Before the conference started, I had two days off for recovery I spent on Gran Canaria passing my first diving license. It was a brilliant thing to do and I had most of my strengths back for the Desktop Summit. [caption id=&quot;attachment_232&rdquo; align=&quot;alignnone&rdquo; width=&quot;439&rdquo; caption=&quot;Simon Wearing Green&rdquo;]<a href="http://untangled.biz/blog/wp-content/uploads/CIMG0255.JPG"><img src="http://untangled.biz/blog/wp-content/uploads/CIMG0255-439x440.jpg" alt="Simon Wearing Green" title="Simon Wearing Green"></a>[/caption] Which then hit me harder than expected. There was still something to organize left, roll ups had to be placed in the conference hall and the party details needed some checking too. And I was still feeling my presentation could need some more preparation (will I ever get over that?). All in all it went well and I am happy with the reactions I received after my talk. My feeling about the conference is mixed. There were a lot of very technical talks I simply didn&rsquo;t have the brains for and there were quite some that were interesting for me but collided with each other. I put all my hopes on the videos. When the BoF sessions started I was no longer perceptive at all. Unfortunately, the sponge approach has limitations. I did not have enough time to move all the new things from temporary storage to more permanent areas of my brain which inevitably led to a loss of concentration and more confusion (I do remember talking about our year of birth before now, Marius, it was not a déjà-vu). In case you wanted to talk to me about anything but didn&rsquo;t manage — or worse: had the impression I was not interested — please, bear with me and ping me on IRC or so&hellip; [caption id=&quot;attachment_224&rdquo; align=&quot;alignnone&rdquo; width=&quot;440&rdquo; caption=&quot;Exhausted after long days of conference&rdquo;]<a href="http://untangled.biz/blog/wp-content/uploads/CIMG0280.JPG"><img src="http://untangled.biz/blog/wp-content/uploads/CIMG0280-440x330.jpg" alt="Exhausted after long days of conference" title="Exhausted after long days of conference"></a>[/caption] I really had a hard time meeting a critical amount of new people due to my personal state and the non-optimal conditions of the summit. It would have helped me personally a lot if the area of the summit was more limited so I could have run into random people more easily. Altogether I do believe that a summit like this is beneficial and that the organizers did a hell of a job. Chapeau! Still there is some room for improvement. Maybe a bunch of geeks does better with a less elegant place than a conference center? Or maybe it was just me being slightly overworked? Time for holidays finally. In other news, I have a fresh <a href="http://www.opensuse.org/">openSUSE</a> install on my desktop now (all for you, Will!) and am surprised by how quickly I had it up and running.</p>
+<p><a href="http://reblog.zemanta.com/zemified/d756e7e9-94b5-4747-8716-223381e93e7f/" title="Reblog this post [with Zemanta]"><img src="http://img.zemanta.com/reblog_e.png?x-id=d756e7e9-94b5-4747-8716-223381e93e7f" alt="Reblog this post [with Zemanta]"></a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>You know you travel too much if ...</title>
+			<link>/posts/you-know-you-travel-too-much-if/</link>
+			<pubDate>Sun, 21 Jun 2009 22:02:19 +0000</pubDate>
+			
+			<guid>/posts/you-know-you-travel-too-much-if/</guid>
+			<description>[caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;alignright&amp;rdquo; width=&amp;quot;240&amp;rdquo; caption=&amp;quot;Image via Wikipedia&amp;rdquo;][/caption]
+&amp;hellip; the driver recognizes you when you get onto the bus to your local airport. &amp;hellip; you don&amp;rsquo;t even look up the number of the check-in counter anymore. &amp;hellip; you have all your make-up in a little bag you don&amp;rsquo;t even unpack anymore. &amp;hellip; you have various cosmetic products that are labeled in foreign languages. &amp;hellip; you find yourself postponing the visit to the duty free shop because you will visit a bigger or better one soon.</description>
+			<content type="html"><![CDATA[<p>[caption id=&rdquo;&rdquo; align=&quot;alignright&rdquo; width=&quot;240&rdquo; caption=&quot;Image via Wikipedia&rdquo;]<a href="http://commons.wikipedia.org/wiki/Image:Gulfair.a330-200.a40-kc.arp.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gulfair.a330-200.a40-kc.arp.jpg/300px-Gulfair.a330-200.a40-kc.arp.jpg" alt="Airbus A330-200" title="Airbus A330-200"></a>[/caption]</p>
+<p>&hellip; the driver recognizes you when you get onto the bus to your local airport. &hellip; you don&rsquo;t even look up the number of the check-in counter anymore. &hellip; you have all your make-up in a little bag you don&rsquo;t even unpack anymore. &hellip; you have various cosmetic products that are labeled in foreign languages. &hellip; you find yourself postponing the visit to the duty free shop because you will visit a bigger or better one soon. &hellip; you know how to say &ldquo;To the airport, please&rdquo; in at least one more language than you actually speak. &hellip; you regularly schedule tasks for the time on a plane. &hellip; you always carry your passport in your bag. &hellip; you seriously consider buying a share of your favourite airline that doesn&rsquo;t have a frequent traveler programme.</p>
+<p><a href="http://reblog.zemanta.com/zemified/00cc639e-dc5f-4b75-864b-9c54419c6f48/" title="Reblog this post [with Zemanta]"><img src="http://img.zemanta.com/reblog_e.png?x-id=00cc639e-dc5f-4b75-864b-9c54419c6f48" alt="Reblog this post [with Zemanta]"></a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Call for Help</title>
+			<link>/posts/call-for-help/</link>
+			<pubDate>Wed, 17 Jun 2009 20:22:22 +0000</pubDate>
+			
+			<guid>/posts/call-for-help/</guid>
+			<description>Image via Wikipedia
+1.5 years ago, Franz was in the same position as I am now: he needed a helping hand. And unfortunately it&amp;rsquo;s the same event again. There is an OpenExpo in Winterthur coming up on 23rd and 24th September and so far noone has stepped up to organize it. These expos are nice events (incl. catering) and stunningly well organized by /ch/open - there is really not much to do.</description>
+			<content type="html"><![CDATA[<p><a href="http://commons.wikipedia.org/wiki/Image:Winterthur_Stadtkirche_nordost.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Winterthur_Stadtkirche_nordost.jpg/300px-Winterthur_Stadtkirche_nordost.jpg" alt="Die Stadtkirche Winterthur (Schweiz) von Nordo&hellip;" title="Die Stadtkirche Winterthur (Schweiz) von Nordo..."></a></p>
+<p>Image via <a href="http://commons.wikipedia.org/wiki/Image:Winterthur_Stadtkirche_nordost.jpg">Wikipedia</a></p>
+<p>1.5 years ago, Franz was in the same position as I am now: <a href="http://franz.keferboeck.info/blog/?p=9">he needed a helping hand</a>. And unfortunately it&rsquo;s the same event again. There is an <a href="http://openexpo.ch">OpenExpo</a> in Winterthur coming up on 23rd and 24th September and so far noone has stepped up to organize it. These expos are nice events (incl. catering) and stunningly well organized by <a href="http://www.ch-open.ch/">/ch/open</a> - there is really not much to do. So it&rsquo;s the perfect opportunity for beginners. If you don&rsquo;t have any plans for those days and would like to dip your feet into booth organization, drop us a line at <em>kde-promo at kde dot org.</em> I can send you last year&rsquo;s material for registering the booth and am happy to help out if you run into questions. <strong>Deadline for registering the KDE booth is 19th June.</strong> <strong>Update, 19th June:</strong> Myriam was so kind to register the booth in time. She will need some help though. You can still raise your hand and get involved. :)</p>
+<p><a href="http://reblog.zemanta.com/zemified/86873361-d46d-4381-8a1f-62d372126793/" title="Reblog this post [with Zemanta]"><img src="http://img.zemanta.com/reblog_e.png?x-id=86873361-d46d-4381-8a1f-62d372126793" alt="Reblog this post [with Zemanta]"></a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Organize a Sprint and Keep Your Sanity</title>
+			<link>/posts/organize-a-sprint-and-keep-your-sanity/</link>
+			<pubDate>Thu, 11 Jun 2009 17:31:13 +0000</pubDate>
+			
+			<guid>/posts/organize-a-sprint-and-keep-your-sanity/</guid>
+			<description>I replied to an email today explaining my usual formula for organizing a developer sprint. While typing I thought I might as well blog about it so others can clone it too. Please, comment if you think I forgot something. [caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;aligncenter&amp;rdquo; width=&amp;quot;447&amp;rdquo; caption=&amp;quot;On the Edge by Wendy on flickr&amp;rdquo;][/caption]
+Set a Date First figure out which weekend will fit most possible attendees. Propose no more than three different ones in the beginning or you will never come to an agreement.</description>
+			<content type="html"><![CDATA[<p>I replied to an email today explaining my usual formula for organizing a developer sprint. While typing I thought I might as well blog about it so others can clone it too. Please, comment if you think I forgot something. [caption id=&rdquo;&rdquo; align=&quot;aligncenter&rdquo; width=&quot;447&rdquo; caption=&quot;On the Edge by Wendy on flickr&rdquo;]<a href="http://www.flickr.com/photos/wenzday01/3610312605/"><img src="http://farm4.static.flickr.com/3196/3610312605_cf3f21e0cf_b_d.jpg" alt="On the Edge by Wendy on flickr" title="On the Edge"></a>[/caption]</p>
+<h3 id="set-a-date">Set a Date</h3>
+<p>First figure out which weekend will fit most possible attendees. Propose no more than three different ones in the beginning or you will never come to an agreement. The last one should be about eight weeks away for a normal amount of organization, like finding accomodation and booking trips. To make your life easier while coming to an agreement on the date, use a tool like <a href="http://doodle.com/">Doodle</a> or set up a simple table on a wiki. <strong>And set a deadline.</strong></p>
+<h3 id="fix-the-location">Fix the Location</h3>
+<p>As soon as you have the date, book the location. Be it a room in a school or an office, the longer you wait the bigger is the chance that someone else has sneaked in. And then you will have to start anew or spend hours on finding an alternative.</p>
+<h3 id="make-a-budget">Make a Budget</h3>
+<p>Set up a list on a wiki and ask everybody to enter the following details:</p>
+<ul>
+<li>Is accomodation needed?</li>
+<li>Is sponsorship by the KDE e.V. needed?</li>
+<li>How much is the estimated travel cost?</li>
+</ul>
+<p>When you have all the information you need, find a hotel, an apartment or whatever fits your group and ask for room rates and availability. Depending on the size of the group, the latter will be the biggest work. I have managed to find something every single time so far, though. It makes things a lot easier if you are local or at least speak the right language. If you don&rsquo;t ask for help. Now it&rsquo;s time to contact the e.V. board and ask for sponsorship. Calculate the costs you are expecting and explain how you are going to spend the money (e.g. flights, accomodation). In most cases, a proper guesstimate on the travel costs will be enough. You should receive a positive answer in a timely fashion.</p>
+<h3 id="book-the-rooms-and-the-travel">Book the Rooms and the Travel</h3>
+<p>Now that you have approval from the board, it&rsquo;s time to start the actual booking. Push everybody to book their respective travel. <strong>Push hard!</strong> Set another deadline and hunt everybody who hasn&rsquo;t booked. Extend the existing wiki and ask everybody to update it with their travel information such as arrival and departure dates. Then finalize the rooms. Be prepared that a hotel will ask you for a credit card as security. If that is beyond your possibilities, ask for help in your group or contact the board again and ask what options they have for fixing this.</p>
+<h3 id="keep-everybody-in-the-loop">Keep Everybody in the Loop</h3>
+<p>After you finished all the booking and know all the little details, send out an email to everybody involved telling them all they need to know: name and address of the hotel, name and address of the location you are going to meet and if possible also travel details. I strongly suggest circulating your mobile number, there will be attendees who get lost or have forgotten where they should change the bus.</p>
+<h3 id="lean-back-and-wait">Lean Back and Wait</h3>
+<p>Now the biggest things should be sorted out. But. There will be smaller things coming up. Be prepared to play baby sitter for some more days until the whole event is over and that you will have to answer a lot of questions during the preparation phase and after the event. Document as much as you can on the wiki (or elsewhere) for later referral and in case you drop off the map. Going through those steps, you will notice that the amount of hunting people and getting on their nerves to find the information you need will increase dramatically as date of the sprint comes closer. And don&rsquo;t expect anybody to say thanks. But be happy if somebody does&hellip;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KOffice Sprint, Day 2</title>
+			<link>/posts/koffice-sprint-day-2/</link>
+			<pubDate>Sun, 07 Jun 2009 18:09:02 +0000</pubDate>
+			
+			<guid>/posts/koffice-sprint-day-2/</guid>
+			<description>After an extremely productive and rather well planned Saturday, we kept Sunday for discussions in small groups. The Krita developers moved to the sofas and helped Lukas to clarify the first steps of his SoC project. After a while the moved on to different topics and I read through pages of the Wordpress documentation to find solutions to open questions regarding the website. I didn&amp;rsquo;t get half as much done as I wanted - not quite surprisingly - but I fixed some minor annoyances and talked to Danimo who popped by eventually how to split up both the existing and hopefully soon new created content between main page, wiki, user- and techbase.</description>
+			<content type="html"><![CDATA[<p>After an extremely productive and rather well planned Saturday, we kept Sunday for discussions in small groups. The <a href="http://koffice.org/krita">Krita</a> developers moved to the sofas and helped Lukas to clarify the first steps of his SoC project. After a while the moved on to different topics and I read through pages of the <a href="http://codex.wordpress.org">Wordpress documentation</a> to find solutions to open questions regarding the website. I didn&rsquo;t get half as much done as I wanted - not quite surprisingly - but I fixed some minor annoyances and talked to Danimo who popped by eventually how to split up both the existing and hopefully soon new created content between <a href="http://koffice.org">main page</a>, <a href="http://wiki.koffice.org">wiki</a>, <a href="http://userbase.kde.org">user</a>- and <a href="http://techbase.kde.org">techbase</a>.</p>
+<p>During the whole weekend I sensed positive vibes coming from the core developers who were relieved to have finally released. For me, this is the biggest improvement compared to the sprint we had last November. The announcement of Jos van den Oever as first full time developer working on KOffice (who brought great drops!) and the rather high amount of completely new faces surely added to the good mood.</p>
+<p>Thanks go to Cyrille for his excellent release management that lead to 2.0 and agenda planning for the sprint, to Thomas for the lovley stickers and postcards, to <a href="http://kdab.net">KDAB</a> who were kind enough to host us at their office and provide us with enough coffee and to the <a href="http://ev.kde.org">KDE e.V</a>. for sponsoring the whole event. And of course, to everybody who came to Berlin to contribute, discuss and learn.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KOffice sprint Day 1</title>
+			<link>/posts/koffice-sprint-day-1/</link>
+			<pubDate>Sat, 06 Jun 2009 07:38:17 +0000</pubDate>
+			
+			<guid>/posts/koffice-sprint-day-1/</guid>
+			<description>It&amp;rsquo;s this time again. Technically, we started last night already with team building (aka socializing aka dinner) but today is the first day of real work. We were kindly invited into the KDAB office in Berlin-Kreuzberg again and I have the strong feeling that Inge is seriously aiming for killing the coffee reserve. We went through various presentations already (see Hanna&amp;rsquo;s blog for details) which lead to very interesting discussions. I don&amp;rsquo;t even get a third of the content but I am tweaking the new website in the meantime.</description>
+			<content type="html"><![CDATA[<p>It&rsquo;s this time again. Technically, we started last night already with <em>team building</em> (aka socializing aka dinner) but today is the first day of real work. We were kindly invited into the <a href="http://kdab.net">KDAB</a> office in Berlin-Kreuzberg again and I have the strong feeling that Inge is seriously aiming for killing the coffee reserve. We went through various presentations already (<a href="http://hannascott.blogspot.com/">see Hanna&rsquo;s blog</a> for details) which lead to very interesting discussions. I don&rsquo;t even get a third of the content but I am tweaking the new website in the meantime. Or maybe I should just sleep another hour. Breakfast at 8 is so not my time&hellip;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Firefox extensions for Google Apps</title>
+			<link>/posts/firefox-extensions-for-google-apps/</link>
+			<pubDate>Sun, 26 Apr 2009 14:14:32 +0000</pubDate>
+			
+			<guid>/posts/firefox-extensions-for-google-apps/</guid>
+			<description>Google Apps like Mail, Reader, Calendar and Docs make cover a big part of my daily work flow. This is mostly because I switch between various machines and operating systems on a regular basis and not so much because I think they are better or whatever than the usual suspects on the desktops. These are the add-ons I still use after an extensive time of testing. Better GMail 2 This one compiles several user generated Greasemonkey scripts into a single add-on: it adds little icons to emails with attachements, shows the amount of unread messages in the tab header, hides unnecessary clutter in the sidebar, adds folders and much more.</description>
+			<content type="html"><![CDATA[<p>Google Apps like Mail, Reader, Calendar and Docs make cover a big part of my daily work flow. This is mostly because I switch between various machines and operating systems on a regular basis and not so much because I think they are better or whatever than the usual suspects on the desktops. These are the add-ons I still use after an extensive time of testing. <a href="http://lifehacker.com/software/exclusive-lifehacker-download/better-gmail-2-firefox-extension-for-new-gmail-320618.php"><strong>Better GMail 2</strong></a> This one compiles several user generated <a href="https://addons.mozilla.org/firefox/748/">Greasemonkey</a> <a href="http://userscripts.org">scripts</a> into a single add-on: it adds little icons to emails with attachements, shows the amount of unread messages in the tab header, hides unnecessary clutter in the sidebar, adds folders and much more. If you use the new GMail you should definetely have a look at this extension. <a href="http://gears.google.com/"><strong>Google Gears</strong></a> You might have come across this one already: it adds offline functionality to online apps. Which is indeed quite useful if you sit on a train. This extensions synchronises your online content with your current machine and lets you create a shortcut on the desktop to access the site directly if you wish. The latest addition to the family on Google&rsquo;s side is GMail (huzzah!) and many other independent online apps use Google Gears as well. <a href="https://addons.mozilla.org/en-US/firefox/addon/189"><strong>Google Preview</strong></a> It&rsquo;s a nice little extensions that only does one single thing: add thumbnails of the pages to your google search result. Which is especially useful if you google for something like LaTeX&hellip; <a href="https://addons.mozilla.org/firefox/748/"><strong>Greasemonkey</strong></a>  <a href="http://userscripts.org"><strong>scripts</strong></a> I currently only use two scripts related to google searches: <a href="http://userscripts.org/scripts/show/43451">one</a> that adds real time search results from Twitter and <a href="http://userscripts.org/scripts/show/44397">another one</a> that adds a sidebar with results from Wikipedia, Flickr, Dictionary.com and YouTube. Unfortunately, the scripts are loaded slightly delayed and make the page layout jump. I don&rsquo;t find it disturbing but you might. Both work on my machine and didn&rsquo;t break anything but I suggest being careful with installing scripts. What extensions do you use that I haven&rsquo;t added to my list?</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Add it on!</title>
+			<link>/posts/add-it-on/</link>
+			<pubDate>Mon, 20 Apr 2009 15:01:30 +0000</pubDate>
+			
+			<guid>/posts/add-it-on/</guid>
+			<description>I spent a rather large part of my working hours on the internet: reading feeds, monitoring microblogging sites or sharing blogs and articles via bookmarking services. To keep it short: I live in my web browser.
+Extensions to my rescue The smartest thing about Firefox is its extendability. There is a ton of more or less useful add-ons available on Mozilla&amp;rsquo;s Add-on site that solve even those issues you have hardly thought about before finding the extension.</description>
+			<content type="html"><![CDATA[<p>I spent a rather large part of my working hours on the internet: reading feeds, monitoring microblogging sites or sharing blogs and articles via bookmarking services. To keep it short: I live in my web browser.</p>
+<h3 id="extensions-to-my-rescue">Extensions to my rescue</h3>
+<p>The smartest thing about Firefox is its extendability. There is a ton of more or less useful add-ons available on Mozilla&rsquo;s Add-on site that solve even those issues you have hardly thought about before finding the extension. I collected a list of extensions I use more or less every day for my colleagues who will jump to my side on the internet and I thought it might be of interest to more people. It&rsquo;s a huge list that covers a lot areas from the usual Google enhancements to more juicy things like Geasemonkey scripts and I will split it up into several blog postings over the next weeks.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>OpenExpo revisited</title>
+			<link>/posts/openexpo-revisited/</link>
+			<pubDate>Mon, 06 Apr 2009 08:37:42 +0000</pubDate>
+			
+			<guid>/posts/openexpo-revisited/</guid>
+			<description>You know it&amp;rsquo;s spring when travels to Berne, Switzerland, hit you again. Regardless of the weather of course. Although this time, it did feel like spring over there and on the day I left for Oslo again, it was really warm, too warm actually for my thick woolen jacket. On the other hand, the jacket was more than needed on my walk from the bus stop to my apartment in Oslo.</description>
+			<content type="html"><![CDATA[<p>You know it&rsquo;s spring when travels to Berne, Switzerland, hit you again. Regardless of the weather of course. Although this time, it did feel like spring over there and on the day I left for Oslo again, it was really warm, too warm actually for my thick woolen jacket. On the other hand, the jacket was more than needed on my walk from the bus stop to my apartment in Oslo. Ah well, back to the subject&hellip; After my <a href="http://untangled.biz/blog/kde/on-the-road-again/">disastrous train trip South</a>, in Bern itself all went rather smoothly. The hotel was easy to find and I fell into the bed right away. On Wednesday morning, we quickly set up our booth at the <a href="http://openexpo.ch">OpenExpo</a> and started the day with strong coffee and Gipfeli (a.k.a. Croissants in the rest of the world). There was some confusion with the original hall layout but after some reshuffling, <a href="http://amarok.kde.org/blog/archives/990-A-Team-at-OpenExpo-2009,-Berne-Switzerland.html">everybody was happy</a>. <a href="http://www.flickr.com/photos/troubalex/3415586582/" title="OpenExpo von troubalex bei Flickr"><img src="http://farm4.static.flickr.com/3351/3415586582_330914888a_m.jpg" alt="" title="The KDE booth at OpenExpo is well visited"></a>Exhibitions are always extremely tiring but also provide great ways of learning about new things and meet new people as well as those one hasn&rsquo;t seen for a while. I finally managed to find someone who could establish a contact to <a href="http://www.scribus.net/">Scribus</a> for me – Alessandro who staffed the booth for <a href="http://libregraphics.org/">Libre Graphics</a> – and had the pleasure to meet Liz who works on the <a href="http://wiki.services.openoffice.org/wiki/Renaissance">OOo Project Renaissance</a>. We had a nice conversation over coffee and I am looking forward to meeting her again next time. It was the first time I gave a talk wearing my new Qt Software hat and I have to admit that it exactly felt like that. I guess it went rather well though and I didn&rsquo;t make a complete fool out of myself. Wouldn&rsquo;t it be boring if there was no room for improvements anyway? I want to thank Eckhart and Luca for running the booth and patiently answering a zillion partly pretty tricky questions, the <a href="http://www.opensuse.org">openSUSE</a> crew for the DVDs, Fabian from <a href="http://fedora.org">Fedora</a> for hosting Eckhart so uncomplicatedly, Pascal for good spirits and of course <a href="http://www.ch-open.ch/">/ch/open</a> for the great organization. Sidenote 1: I had to run to the gate again although Luca and me arrived really early at the airport. Will I ever learn to estimate the time I need correctly? Sidenote 2: I have to buy a proper camera. Sorry for the constantly blurry shots I take with my mobile phone. If you have a suggestion for a compact model, please be so kind to leave a comment.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>New Baby</title>
+			<link>/posts/new-baby/</link>
+			<pubDate>Wed, 01 Apr 2009 07:28:09 +0000</pubDate>
+			
+			<guid>/posts/new-baby/</guid>
+			<description>Today, we added a new member to the family of Qt websites. Some weeks ago, we had a creative coffee break in the Oslo office with rather bad coffee but nice cookies (did you know that Norwegians make really good cookies?). Sitting on the comfy couches, someone raised the issue (or should I say: challenge?) that we don&amp;rsquo;t have a place where we can show all the creative and uncommon projects that pop up on blogs and land in our inboxes from time to time.</description>
+			<content type="html"><![CDATA[<p>Today, we added a new member to the family of Qt websites. Some weeks ago, we had a creative coffee break in the Oslo office with rather bad coffee but nice cookies (did you know that Norwegians make really good cookies?). Sitting on the comfy couches, someone raised the issue (or should I say: challenge?) that we don&rsquo;t have a place where we can show all the creative and uncommon projects that pop up on blogs and land in our inboxes from time to time. Enter <a href="http://www.qtoverload.com">QtOverload</a>! On this new blog, we want to collect cute little applications, code snippets or screenshots (or whatever else fits) and give credit to the enormous creative potential that our toolkit sets free in cute Qt programmers. We bet that you have something extra cute sitting on your hard drive or living somewhere in the back of your head. Don&rsquo;t let it gather dust any longer and send your ideas over to submissions [at] qtoverload [dot] com. We&rsquo;ll finally give them the attention they deserve! We&rsquo;re very excited about this new project and looking forward to your submissions.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>On The Road Again</title>
+			<link>/posts/on-the-road-again/</link>
+			<pubDate>Tue, 31 Mar 2009 21:01:16 +0000</pubDate>
+			
+			<guid>/posts/on-the-road-again/</guid>
+			<description>Thanks to the German Bahn, I gained an hour offline in a train. All my tasks I could finish without the internet are done now, so I thought to myself I could as well blog something. I squeezed myself into the ICE to Basel SBB with a incredibly heavy suitcase, a backpack, a cardboard roll holding posters and my handbag. A whole hour later than planned because of severe stupidness on my side.</description>
+			<content type="html"><![CDATA[<p>Thanks to the German Bahn, I gained an hour offline in a train. All my tasks I could finish without the internet are done now, so I thought to myself I could as well blog something. I squeezed myself into the ICE to Basel SBB with a incredibly heavy suitcase, a backpack, a cardboard roll holding posters and my handbag. A whole hour later than planned because of severe stupidness on my side. This turned out to be extra annoying when shortly before Siegburg the train stopped before a no longer working switch. We had to travel back nearly all the way to Cologne main station and slowly. Hence the gained hour. I am on my way to attend the OpenExpo in Bern where I will give a presentation and back up Luca and Eckhart at the KDE booth. Claudia sent me the posters and some T-shirts and thanks to a quick reaction from Novell I now have 200 something openSUSE DVDs in my small suitcase. The latter gives me funny looks since a suitcase of that size is not expected to be heavy. Believe me - this one is! I am looking forward to put on my KDE hat again and meet with all the nice Swiss FOSS folks in Bern tomorrow. But first I want food and a bed. The initial train by the way actually never made it to Basel and my extra hour quickly evolved into one and a half hours but that&rsquo;s another story.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Qt Release Madness</title>
+			<link>/posts/qt-release-madness/</link>
+			<pubDate>Tue, 03 Mar 2009 11:10:06 +0000</pubDate>
+			
+			<guid>/posts/qt-release-madness/</guid>
+			<description>Qt 4.5 is out. Did you hear the loud sigh of relief coming all the way from the Troll offices? Now it&amp;rsquo;s time for cake. Development has been working hard on this release, it&amp;rsquo;s packed with new features and it&amp;rsquo;s the first version to be released under the LGPL. There was a lot of good feedback beforehand and we&amp;rsquo;re confident that this release is a good one. Or as Jason puts it on his blog on the labs:</description>
+			<content type="html"><![CDATA[<p><img src="http://untangled.biz/blog/wp-content/uploads/cake.jpg" alt="Yummy Cup Cake" title="cup cake"> Qt 4.5 is out. Did you hear the loud sigh of relief coming all the way from the Troll offices? Now it&rsquo;s time for cake. Development has been working hard on this release, it&rsquo;s packed with new features and it&rsquo;s the first version to be released under the LGPL. There was a lot of good feedback beforehand and we&rsquo;re confident that this release is a good one. Or as Jason puts it on his <a href="http://labs.trolltech.com/blogs/2009/03/03/qt-45-hits-the-virtual-shelves/">blog on the labs</a>:</p>
+<blockquote>
+<p>&ldquo;The 4.5.0 release contains a myriad of new features, bug fixes and performance improvements.  Many of these are a result of the feedback we have received from you, the community of Qt users.  Your continued support and feedback is a big part of what makes Qt such a great product.&rdquo;</p>
+</blockquote>
+<p>It&rsquo;s the first time that a complete <a href="http://www.qtsoftware.com/downloads">Qt SDK</a> is out in the wild: it provides developers all they need for cross-platform Qt development in one single binary package and includes the Qt libraries, Qt Creator and the Qt tools. New Qt developers should be finally up and running in no time. Even I managed to install it on my machine and compile a small application. And take a look at this <a href="http://www.youtube.com/watch?v=HHsi5B_Opec">lovely video</a> on YouTube! <strong>[Update]</strong> Eike blogged about the work on Qt Creator and the Qt SDK packages (and some other things). Honoured readers - <a href="http://labs.trolltech.com/blogs/2009/03/03/qt-creator-10-is-out/">this way</a>, please</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KDE release event in Zurich</title>
+			<link>/posts/kde-release-event-in-zurich/</link>
+			<pubDate>Fri, 30 Jan 2009 14:35:18 +0000</pubDate>
+			
+			<guid>/posts/kde-release-event-in-zurich/</guid>
+			<description>I attended the 4.2 release event in Zurich on Wednesday and I must say: it was pretty crowded. Pascal and Luca and whoelse helped them did a good job on organizing the whole event, including Apéro with FreeBeer and snacks. I listened to the keynote by Georg Greve, President of the FSFE, and to Aaron who impressed with his live presentation. I found a first set of photos on flickr. It gives a nice idea of the event.</description>
+			<content type="html"><![CDATA[<p>I attended the 4.2 release event in Zurich on Wednesday and I must say: it was pretty crowded. Pascal and Luca and whoelse helped them did a good job on organizing the whole event, including Apéro with <a href="http://www.project21.ch/freebeer">FreeBeer</a> and snacks. I listened to the keynote by Georg Greve, President of the FSFE, and to Aaron who impressed with his live presentation. I found a first <a href="http://flickr.com/photos/tuxmaniac/sets/72157613077982603/">set of photos</a> on flickr. It gives a nice idea of the event. Usually, for me the more interesting part starts after the official one has ended: the talking to people. I learnt a lot again and I am always surprised how many ex-professional-musicians I meet in Free Software. There must be a special attraction. On Thursday morning, I joined Aaron, Georg, Graeme and Shane at the FSFE office. I mostly listened and learned again. It was great meeting them and absorbing knowledge while drinking tea. Many thanks for letting me abuse their office and wifi and for the input!</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Farewell Jamaica</title>
+			<link>/posts/farewell-jamaica/</link>
+			<pubDate>Tue, 27 Jan 2009 10:46:55 +0000</pubDate>
+			
+			<guid>/posts/farewell-jamaica/</guid>
+			<description>I have finally recovered from the trip to Jamaica. It took me the whole weekend, though. Maybe staying up late didn&amp;rsquo;t really help&amp;hellip; Or I&amp;rsquo;m just getting old. CampKDE was a cozy but great meeting and I really enjoyed spending time with people I already knew rather well and those I hadn&amp;rsquo;t met before. Although distractions were many, I got to all the topics I had on my list and learnt a lot from Mauricio and - I must admit - Wade.</description>
+			<content type="html"><![CDATA[<p>I have finally recovered from the trip to Jamaica. It took me the whole weekend, though. Maybe staying up late didn&rsquo;t really help&hellip; Or I&rsquo;m just getting old. CampKDE was a cozy but great meeting and I really enjoyed spending time with people I already knew rather well and those I hadn&rsquo;t met before. Although distractions were many, I got to all the topics I had on my list and learnt a lot from Mauricio and - I must admit - Wade. Quite some new ideas take shape in my head and I really hope to make at least a part of those reality. For example: what do members of the Spanish speaking communities think about a Spanish blog aggregation around KDE? What about Portuguese? Is there already a place for this on the web? Please, comment with thoughts and hints, I am not really at home in both languages&hellip; And speaking of the net: there is a <a href="http://www.flickr.com/groups/campkde/">flickr group</a> collecting photos from campKDE. So if you happen to have your pics uploaded there, shoot me a message and I will add you to the group so you can share them there.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>CampKDE Day 3</title>
+			<link>/posts/campkde-day-3/</link>
+			<pubDate>Mon, 19 Jan 2009 19:27:07 +0000</pubDate>
+			
+			<guid>/posts/campkde-day-3/</guid>
+			<description>Both days of conference are over by now. The talks were quite technical, but still interesting to me. At least the part that I actually understood. Nevertheless I learnt something: I knew about cultural differences between Asia and Europe before but it was new to me that those between Europe and (South- and Middle-) America were nearly as big. For today I plan a BoF on collaboration between the KDE community in North America and Qt Software to plan how to leverage KDE along with Qt and hopefully another one on the needs of the communities on Middle and Southern America, now that I actually have members of our community from there at hand.</description>
+			<content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/troubalex/3209756387/" title="42 von troubalex bei Flickr"><img src="http://farm4.static.flickr.com/3377/3209756387_7d7ffd5232_m.jpg" alt="42"></a>Both days of conference are over by now. The talks were quite technical, but still interesting to me. At least the part that I actually understood. Nevertheless I learnt something: I knew about cultural differences between Asia and Europe before but it was new to me that those between Europe and (South- and Middle-) America were nearly as big. For today I plan a BoF on collaboration between the KDE community in North America and Qt Software to plan how to leverage KDE along with Qt and hopefully another one on the needs of the communities on Middle and Southern America, now that I actually have members of our community from there at hand. So to speak.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Going Camping</title>
+			<link>/posts/going-camping/</link>
+			<pubDate>Sat, 17 Jan 2009 19:42:21 +0000</pubDate>
+			
+			<guid>/posts/going-camping/</guid>
+			<description>When the alarm woke me up at 5 yesterday morning, I found it hard to believe that I would be spending most of the day on various planes and crossing several timezones. To be honest, it felt close to impossible to get out of bed. But I convinced myself at last and crawled down the ladder of my loft bed. At 7.55 and -6° C Thomas and me got onto the plane to Heathrow.</description>
+			<content type="html"><![CDATA[<p>When the alarm woke me up at 5 yesterday morning, I found it hard to believe that I would be spending most of the day on various planes and crossing several timezones. To be honest, it felt close to impossible to get out of bed. But I convinced myself at last and crawled down the ladder of my loft bed. At 7.55 and -6° C Thomas and me got onto the plane to Heathrow. Surprisingly enough I didn&rsquo;t have to hurry this time: I actually was early enough at the airport in Oslo to have a nice cup of coffee and call home. Arriving at our gate in Heathrow, we met Leo who boarded the flight to Miami with us. I have never been on a plane for more than 4 hors before and I must say: it&rsquo;s pretty boring. Especially when there is not much to see outside apart from clouds, water and empty icy Canada. In Miami I had trouble finding my suitcase which could not be checked through to Montego Bay and going through customs took ages. Result was that I couldn&rsquo;t check in my suitcase for the American Airlines flight to Jamaica and therefore had to leave all my bathroom goodies at the airport. Meh. For Leo it was even worse because his bag got lost somewhere on the way to Montego Bay. I had to run to the gate but luckily caught the flight. Right after landing I was overwhelmed by the uber-relaxed atmosphere on this island. Later at the Resort, I caught the opportunity to hop into the ocean right in the middle of the night while other KDE people were gathering around a camp fire on the beach. We at <a href="http://www.qtsoftware.com">Qt Software</a> decided to join Camp KDE for various reasons. Thomas will give technical insight into the latest development of Qt, Ron Copeland - my fellow colleague from our office in Redwood, CA - is supposed to make first contacts to KDE contributors in America and I am looking forward to help with the promo activities and get in sync for the upcoming 4.2 release. And of course I am happy to meet new people most of which I only know by name so far. Let&rsquo;s join forces to make the next release a big success and move KDE forward to broader acceptance - along with Qt.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Tweets, blogs, comments and a new license</title>
+			<link>/posts/tweets-blogs-comments-and-a-new-license/</link>
+			<pubDate>Thu, 15 Jan 2009 22:36:43 +0000</pubDate>
+			
+			<guid>/posts/tweets-blogs-comments-and-a-new-license/</guid>
+			<description>We had some busy days over here at Qt Software. I spent most of yesterday digging through comments on blogs and forums, monitoring twitter and other social services and generally having eyes and ears on the discussions going on. Multitasking at its finest for the whole team. It was great to read through all the feedback and it was just amazing how much help we got from you fellow KDE friends on various places on the web.</description>
+			<content type="html"><![CDATA[<p>We had some busy days over here at <a href="http://www.qtsoftware.com">Qt Software</a>. I spent most of yesterday digging through comments on blogs and forums, monitoring twitter and other social services and generally having eyes and ears on the discussions going on. Multitasking at its finest for the whole team. It was great to read through all the feedback and it was just amazing how much help we got from you fellow KDE friends on various places on the web. I saw many of you answering questions or moving the discussion into the right direction. <strong>A big, big thank you to everybody for this!</strong> And to make it complete: we switched domains over the weekend. trolltech.com has retired and is now replaced by <a href="http://www.qtsoftware.com">qtsoftware.com</a></p>
+<p><a href="http://www.zemanta.com/" title="Enhanced by Zemanta"><img src="http://img.zemanta.com/zemified_e.png?x-id=d610699a-0edd-4fc0-b653-a6d18b4295b5" alt="Enhanced by Zemanta"></a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Cuteness!</title>
+			<link>/posts/cuteness/</link>
+			<pubDate>Thu, 11 Dec 2008 18:20:57 +0000</pubDate>
+			
+			<guid>/posts/cuteness/</guid>
+			<description>Where did the last weeks go? They seem to have passed me unnoticed behind my back&amp;hellip; Exciting things have happened. I spare you the details of the ups and downs I&amp;rsquo;ve been through like the nerve-wracking waiting for emails and simply pull out the most important news: I joined Qt Software&amp;lsquo;s marketing team as Web Community Manager three weeks ago. Being in dark and cold Oslo does need some adaptation but in reward I got really nice colleagues and free access to a wii and a pinball machine.</description>
+			<content type="html"><![CDATA[<p>Where did the last weeks go? They seem to have passed me unnoticed behind my back&hellip; Exciting things have happened. I spare you the details of the ups and downs I&rsquo;ve been through like the nerve-wracking waiting for emails and simply pull out the most important news: I joined <a href="http://trolltech.com/">Qt Software</a>&lsquo;s marketing team as Web Community Manager three weeks ago. Being in dark and cold Oslo does need some adaptation but in reward I got really nice colleagues and free access to a wii and a pinball machine. And it actually snowed today! I will work on increasing the buzz around Qt and FOSS over the web and engage with the communities on the web around us to make them more visible and serve them with fresh news and content. To reach out to as many community members as possible I intend to concentrate on - surpise! - social media. For the beginning, I put some work into the <a href="http://trolltech.com/qt-in-use#oss">OSS showcase</a> on our <em>Qt in Use</em> section to promote OpenSource projects using Qt. There is more to come and if you ever stumble upon anything interesting, I might have missed - you know, my day only has 24 hours, too - go ahead and let me know and send me an email to <em>firstname dot lastname at trolltech dot com</em>. And I mean <strong>anything</strong>! Oh, and I will definetely go on putting time and work into KDE.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KOffice sprint recap</title>
+			<link>/posts/koffice-sprint-recap/</link>
+			<pubDate>Tue, 11 Nov 2008 21:18:52 +0000</pubDate>
+			
+			<guid>/posts/koffice-sprint-recap/</guid>
+			<description>Now that I had the time to recover from all this sprint stress and after two nearly contentless blogs, I thought I might go into details which results we actually achieved. Inge, Jos, Sebas and me spend our time on working on a marketing strategy for the new KOffice - as you might have read before. Of course, I won&amp;rsquo;t share our plans here, but the attentive observer of this highly interesting project will most probably come across the neat messages we worked out.</description>
+			<content type="html"><![CDATA[<p>Now that I had the time to recover from all this sprint stress and after two nearly contentless blogs, I thought I might go into details which results we actually achieved. Inge, Jos, Sebas and me spend our time on working on a marketing strategy for the new KOffice - as <a href="http://vizzzion.org/?blogentry=835">you</a> <a href="http://ingwa2.blogspot.com/2008/11/koffice-sprint-is-now-officially-on.html">might</a> <a href="http://cyrilleberger.blogspot.com/2008/11/koffice-release-sprint-day-1_08.html">have</a> <a href="http://nowwhatthe.blogspot.com/2008/11/koffice-rocks.html">read</a> <a href="http://untangled.biz/blog/kde/koffice-sprint/">before</a>. Of course, I won&rsquo;t share our plans here, but the attentive observer of this highly interesting project will most probably come across the neat messages we worked out. We ended up with a nice list of strong selling points and I&rsquo;m sure that the final release will show that this office suite has a lot of potential, even if the 2.0 version will not be perfect.</p>
+<p>Less confidential but not less interesting is the feedback I got on my <a href="http://untangled.biz/blog/netz/koffice-web-concept/">web concept</a>. Actually it was bought by everybody, only minor issues had to be addressed. We still need to make a final decision on the system we want to use for the landing page - which includes quite some googleing for me - but chances are high that I will come up with something easy to use, easy to maintain <strong>and</strong> pretty. Thanks to Jarosław for pointing me into a new direction. I hope this might be useful as test case for other projects, especially the lifestream system to show the whole activity around one project that happens anywhere on the net.</p>
+<p>It was very interesting for me to meet all those people I only knew from IRC, if at all, and see how they think, work and talk. And I finally understood the usefulness of chatting on IRC while being in the same room: one gets the attention of those that keep staring onto their screen&hellip;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KOffice Sprint</title>
+			<link>/posts/koffice-sprint/</link>
+			<pubDate>Sun, 09 Nov 2008 16:18:34 +0000</pubDate>
+			
+			<guid>/posts/koffice-sprint/</guid>
+			<description>This sprint turns out to have been pretty productive. The marketing team (Inge, Jos, Sebas and me) has managed to get all topics covered and now has a finished marketing strategy. I even introduced everybody to the idea of a social stream of all developers involved and people started playing with our demo (thanks to Dirk Olbertz for setting that up!).
+Those developers who have already left apparently did so with a good mood.</description>
+			<content type="html"><![CDATA[<p>This sprint turns out to have been pretty productive. The marketing team (Inge, Jos, Sebas and me) has managed to get all topics covered and now has a finished marketing strategy. I even introduced everybody to the idea of a social stream of all developers involved and people started playing with our demo (thanks to <a href="http://noserub.com/blog/">Dirk Olbertz</a> for setting that up!).</p>
+<p><img src="http://untangled.biz/blog/wp-content/uploads/img_0585.jpg" alt="Half of the marketing team thinking hard" title="Hard work"></p>
+<p>Those developers who have already left apparently did so with a good mood. They worked hard during this two days at the <a href="http://kdab.com/">KDAB</a> office (thanks to them for hosting us again!). It didn&rsquo;t even distract them that the office is right in the middle of a <strong>huge</strong> variety of restaurants, pubs and cocktail bars. There was a lot of more or less quiet hacking going on and I observed some vivid discussions about <em>not so common</em> topics. And of course I learnt some new things like doing a SWOT analysis, that it makes sense to arrive well rested and that wikis can look surprisingly pretty.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>48 hours</title>
+			<link>/posts/48hours/</link>
+			<pubDate>Fri, 07 Nov 2008 20:51:18 +0000</pubDate>
+			
+			<guid>/posts/48hours/</guid>
+			<description>I&amp;rsquo;ll lose my virginity over this weekend. I have arrived in Berlin this afternoon to attend the KOffice sprint. It&amp;rsquo;s kind of surprising, I never expected to do things like going to a developer meeting&amp;hellip; We have plans - and we have a schedule! - for what has to be done in respect of promotion and marketing for the upcoming release and I am really curious about the results. So stay tuned for updates.</description>
+			<content type="html"><![CDATA[<p>I&rsquo;ll lose my virginity over this weekend. I have arrived in Berlin this afternoon to attend the KOffice sprint. It&rsquo;s kind of surprising, I never expected to do things like going to a developer meeting&hellip; We have plans - and we have a schedule! - for what has to be done in respect of promotion and marketing for the upcoming  release and I am really curious about the results. So stay tuned for updates.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KOffice Web Concept</title>
+			<link>/posts/koffice-web-concept/</link>
+			<pubDate>Thu, 30 Oct 2008 20:27:36 +0000</pubDate>
+			
+			<guid>/posts/koffice-web-concept/</guid>
+			<description>Things are in the move it seems and I am still all about drafting concepts for a renewal of the KOffice web presence. We have been discussing this on IRC a bit and it seems that quite some people liked the ideas, so I chose to present them here to give others the opportunity to think about it and maybe reuse it or make smart™ suggestions. ;) From simple to complex My starting point was to find a solution to present KOffice independently without doubling maintenance work and spreading ressources even further on the net.</description>
+			<content type="html"><![CDATA[<p><a href="http://untangled.biz/stuff/KOffice_Web_Presence.gif"><img src="http://untangled.biz/blog/wp-content/uploads/koffice_web_presence_thumb.jpg" alt="KOffice Web Presence Strategy Thumbnail (click!)" title="KOffice Web Presence Strategy Thumbnail (click!)"></a> Things are in the move it seems and I am still all about <a href="http://untangled.biz/blog/netz/going-web20/">drafting concepts</a> for a renewal of the KOffice web presence. We have been discussing this on IRC a bit and it seems that quite some people liked the ideas, so I chose to present them here to give others the opportunity to think about it and maybe reuse it or make smart™ suggestions. ;) <strong>From simple to complex</strong> My starting point was to find a solution to present KOffice independently without doubling maintenance work and spreading ressources even further on the net. At the moment, everything KOffice is quite confusing: there is a terribly outdated (content wise) website that is pretty complicated to keep up to date with the use of SVN, a wiki that is hard to find and needs to be searched for everything and resources both on userbase and techbase. So we have actually four places where content is spread and that need maintenance. Not too clever, ey? Now we have to start sorting things again. I would like to see everything that feels like promotion on a <em>landing page</em> on koffice.org, this includes a generally introductory text about KOffice, a description of the single apps, the vision and maybe the <em>KOffice team</em>. Adding to that should be Latest news such as release notes and - in a prominent place - links to external ressources for both users and developers. **Outsourcing ** That leads me to my next point: userbase and techbase. Those are highly useful and visible places and should host all the content that is likely to change frequently like tutorials, FAQs and other documentation. By moving content there, we make use of the already existing infrastructure and take quite some work away from the KOffice team to those maintaining the *base sites. Chances are good that this leads to better results and that we provide good tools for community interaction and user created content. Additionally, content becomes easier to find for those who already are familiar with the KDE infrastructure. But providing links on both ends will be mandatory and take make sure, nobody gets lost on the way. Everything that is only useful to those who actually are closely involved to KOffice development - TODO lists, release schedules, internal discussions and general organisation - will stay on the current wiki. The developers seem to be happy with it and I don&rsquo;t see a reason to move any of this content anywhere else. There is a enough to move around without this&hellip; Now we <strong>only</strong> need to write fancy PR texts for the landing page and start moving and sorting content. *cough* <strong>Lifestream</strong> This will add some extra coolness to the whole concept and will be covered later when we have discussed things further. Stay tuned.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>FlickrRSS workaround</title>
+			<link>/posts/flickrrss-workaround/</link>
+			<pubDate>Mon, 27 Oct 2008 11:38:12 +0000</pubDate>
+			
+			<guid>/posts/flickrrss-workaround/</guid>
+			<description>Since I upgraded my wordpress install, the FlickrRSS plugin I used to show thumbnails of my photos at the top of my blog has stopped working. Nothing serious, just a bit annoying. Over the weekend I took the time to finally get the pics back. The Plugin still didn&amp;rsquo;t work, so I decided to throw out both the plugin and the associated PHP code in the main template. Instead I took the one flickr provides for badges, removed all the CSS that comes with it and kept only the single line of JavaScript, within which I changed the amount of shown thumbnails from 10 to 9.</description>
+			<content type="html"><![CDATA[<p>Since I upgraded my <a href="http://wordpress.org/">wordpress</a> install, the <a href="http://eightface.com/wordpress/flickrrss/">FlickrRSS plugin</a> I used to show thumbnails of my photos at the top of my blog has stopped working. Nothing serious, just a bit annoying. Over the weekend I took the time to finally get the pics back. The Plugin still didn&rsquo;t work, so I decided to throw out both the plugin and the associated PHP code in the main template. Instead I took the one <a href="http://flickr.com">flickr</a> provides for badges, removed all the CSS that comes with it and kept only the single line of JavaScript, within which I changed the amount of shown thumbnails from 10 to 9. Then I wrapped a <!-- raw HTML omitted --> around it to assign the former used style sheet again et voilà. It looks exactly the way it did before and beautifies my template again. Isn&rsquo;t that sweet? And a hint to those who were wondering (or coming from a feedreader): it&rsquo;s on the <a href="http://untangled.biz/blog">startpage of the blog</a>, not on those pages that show one article only. :)</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Get &#39;em all!</title>
+			<link>/posts/get-em-all/</link>
+			<pubDate>Sat, 25 Oct 2008 12:28:16 +0000</pubDate>
+			
+			<guid>/posts/get-em-all/</guid>
+			<description>As you may have noticed, KOffice is approching a 2.0 release. There is still some work to do and here&amp;rsquo;s where you come in. It was already announced on the dot: Sunday (which is tomorrow) will be the first official KOffice Bug Day. Or Krush Mastery as Lemma called it. We&amp;rsquo;ll start at 7:00 UTC and gather on #kde-bugs to hunt down known bugs and find some new in the latest release.</description>
+			<content type="html"><![CDATA[<p><img src="http://untangled.biz/blog/wp-content/uploads/bug.jpg" alt="Ladybug" title="bug"> As you may have noticed, KOffice is approching a 2.0 release. There is still some work to do and here&rsquo;s where <em><strong>you</strong></em> come in. It was already <a href="http://dot.kde.org/1224717094/">announced on the dot</a>: Sunday (which is tomorrow) will be the first official KOffice Bug Day. Or <a href="http://www.confuego.org/archives/10-KOfficeDay1-Krush-mastery.html">Krush Mastery</a> as Lemma called it. We&rsquo;ll start at 7:00 UTC and gather on <a href="irc://irc.freenode.org/#kde-bugs">#kde-bugs</a> to hunt down known bugs and find some new in the latest release. Let&rsquo;s make KOffice 2 the best and coolest office suite out there in the world and help the developers by providing the best and most useful bugreports we can come up with and cheer them on! If you can spare some time, don&rsquo;t hesitate to join us. You don&rsquo;t need any coding skills, a working install of KOffice 2.0 beta2 will do. But watch out, summertime ends tonight! For more information please have a look at these articles on techbase: <a href="http://techbase.kde.org/Contribute/Bugsquad/BugDays/KOfficeDay1/Triage">KOffice Bug Day 1: Triage</a> <a href="http://techbase.kde.org/Contribute/Bugsquad/BugDays/KOfficeDay1/Krush">KOffice Bug Day 1: Krush</a> Thanks to the BugSquad for organizing this. :)</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Systems</title>
+			<link>/posts/systems/</link>
+			<pubDate>Sun, 19 Oct 2008 18:33:33 +0000</pubDate>
+			
+			<guid>/posts/systems/</guid>
+			<description>After a flood of emails - with increasing frequency - to various people, a completely useless document, and some tearing at hair on my side, I managed to organize a booth and gather staff for Systems in Munich again. So if you plan to visit the exhibition don&amp;rsquo;t forget to drop by and say hello to Dominik, Eckhart, Frederik and Holger who devote quite some time to presenting KDE to business people wearing suits.</description>
+			<content type="html"><![CDATA[<p>After a flood of emails - with increasing frequency - to various people, a completely useless document, and some tearing at hair on my side, I managed to organize a booth and gather staff for <a href="http://systems.de">Systems in Munich</a> again. So if you plan to visit the exhibition don&rsquo;t forget to drop by and say hello to Dominik, Eckhart, Frederik and Holger who devote quite some time to presenting KDE to business people wearing suits. Many thanks to them!</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Community interaction</title>
+			<link>/posts/community-interaction/</link>
+			<pubDate>Wed, 08 Oct 2008 10:52:42 +0000</pubDate>
+			
+			<guid>/posts/community-interaction/</guid>
+			<description>There is a lot of thinking going on it seems. Please, head over to Socceroos and read this blog. I first learnt about this concept during Akademy and I think it&amp;rsquo;s pretty exciting. If you&amp;rsquo;re interested (and have the time) join the meeting on #kde-www which is announced here. The details can be found on techbase.</description>
+			<content type="html"><![CDATA[<p>There is a lot of thinking going on it seems. Please, head over to Socceroos and read this <a href="http://socceroosd.blogspot.com/2008/10/future-of-kdes-online-presence.html">blog</a>. I first learnt about this concept during Akademy and I think it&rsquo;s pretty exciting. If you&rsquo;re interested (and have the time) join the meeting on #kde-www which is announced <a href="http://socceroosd.blogspot.com/2008/10/its-on-meeting-this-friday.html">here</a>. The details can be found on <a href="http://techbase.kde.org/Projects/kde.org/Meetings/September08">techbase</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Going Web2.0?</title>
+			<link>/posts/going-web20/</link>
+			<pubDate>Fri, 03 Oct 2008 12:44:55 +0000</pubDate>
+			
+			<guid>/posts/going-web20/</guid>
+			<description>There has been some reflections going on about the use of the so called social web after our BoFs at Akademy this summer. I came across some difficulties during the last days though.
+Hasn&amp;rsquo;t the web been social all the time? In the early days, when I first came across the concept of the internet, usegroups and mailing-lists were entirely social. With broader acceptance of the internet itself, things changed to a more presenting approach.</description>
+			<content type="html"><![CDATA[<p>There has been some reflections going on about the use of the so called social web after our BoFs at Akademy this summer. I came across some difficulties during the last days though.</p>
+<h3 id="hasnt-the-web-been-social-all-the-time">Hasn&rsquo;t the web been social all the time?</h3>
+<p>In the early days, when I first came across the concept of the internet, usegroups and mailing-lists were entirely social. With broader acceptance of the internet itself, things changed to a more presenting approach. Content became statically available on websites and there was usually no way to interact with the owner of a site apart from email-forms. With all the buzz around a web2.0 built on the concepts of community and interaction between the users, things have changed again back to where the web came from for the average user. Web start-ups and companies now take a huge effort in building a community and turning their online services into a vivid place of exchange and interaction.</p>
+<h3 id="how-does-this-whole-thing-affect-me-why-is-she-writing-a-blog-about-it-that-gets-on-the-planet">How does this whole thing affect me? Why is she writing a blog about it that gets on the planet?</h3>
+<p>The idea I initially had at Akademy was to use the most known web services for KDE as a whole. This doesn&rsquo;t really work out due to various reasons. At least not yet. What I think would work instead is the use of the social web for KDE subprojects such as KOffice where I recently came up with this idea. We&rsquo;re preparing the new release and I suggested to create some buzz for it using web2.0 services. While discussing this on IRC or private chat, it occured to me that not everyone saw my intention behind it. The biggest advantage of those services mentioned above is the possibility to share and interact. What makes KDE stand out from the crowd is the strong liaison to its community and by using the social web we open new ways of participation to nearly everybody.</p>
+<h3 id="aha-and-what-is-it-we-should-do-now">Aha. And what is it we should do now?</h3>
+<p>I will take <a href="http://koffice.kde.org">KOffice</a> as an example for my ideas. First, I would register an account on <a href="http://flickr.com">flickr</a> for screenshots, one on <a href="http://blip.tv">blip.tv</a> (as it seems to have some advantages) for screencasts and one on <a href="http://twitter.com">twitter</a> to which I would feed all developers&rsquo; blogs with the help of <a href="http://twitterfeed.com">twitterfeed</a>. Then I&rsquo;d create an account on <a href="http://friendfeed.com">friendfeed</a> and add all of the accounts I set up for <a href="http://koffice.kde.org">KOffice</a> and eventually already existing ones. With the help of this feed service, I&rsquo;d get all activites on the various services collected in one place and made available via RSS again. The curious now only needs to monitor one single feed to get all the information available on the internet by the KOffice project and its developers.</p>
+<h3 id="and-why-not-simply-put-it-on-somethingkdeorg">And why not simply put it on something.kde.org?</h3>
+<p>Because it&rsquo;s all about sharing. By uploading the screenshots to <a href="http://flickr.com">flickr</a> for example we make them available to everybody and allow comments on it, and by posting them to the right group within <a href="http://flickr.com">flickr</a> we get impressive view counts. All services make us address people that might never have heard about KOffice at all (we all know how very often we stumble upon something we were not actually looking for on the net) and let them comment on or share the information. With <a href="http://friendfeed.com">friendfeed</a> we take it even further. Everybody with an account there can forward parts of his subscribed feeds to friends or so called rooms and comment. If anybody in your networks is susbcribed to the KOffice feed and commented on a screenshot for example or liked something, you will see that in your feed, (<a href="http://friendfeed.com/troubalex">My feed is here</a>, have a look at it if it&rsquo;s not all clear yet.) With the right use of the technology available we can reach very far. And: everything collected within theses accounts can easily be embedded into the existing websites.</p>
+<h3 id="where-is-the-but">Where is the but?</h3>
+<p>Someone will have to take care for the accounts and get material from the developers involved in the project. Only then it will be possible to keep the content fresh and the audience interested. If everybody puts a little effort in this and — for example — makes it a habit to take screenshots of newly implemented features or a polished GUI and then mails it to the account holder, it will keep the workload for everybody on a reasonable level. And now that you&rsquo;ve actually made it to the end of this blog: thanks for reading! :) I would love to hear your thoughts and comments on this and officially open the discussion here.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KOffice 2 talk</title>
+			<link>/posts/koffice-2-talk/</link>
+			<pubDate>Fri, 26 Sep 2008 20:39:15 +0000</pubDate>
+			
+			<guid>/posts/koffice-2-talk/</guid>
+			<description>I made my debut as a speaker on wednesday. I think I mentioned that before&amp;hellip; once or twice&amp;hellip; maybe&amp;hellip; Just let me put it like that: it was exciting and I liked it. And I&amp;rsquo;m so happy how my slides turned out that I will put them up again here. Call me vain. [UPDATE] I heard your complaints. Let me know if this slideshare widget doesn&amp;rsquo;t work either.
+KOffice 2 overview</description>
+			<content type="html"><![CDATA[<p>I made my debut as a speaker on wednesday. I think I mentioned that before&hellip; once or twice&hellip; maybe&hellip; Just let me put it like that: it was exciting and I liked it. And I&rsquo;m so happy how my slides turned out that I will put them up again here. Call me vain. <strong>[UPDATE]</strong> I heard your complaints. Let me know if this slideshare widget doesn&rsquo;t work either.</p>
+<p><a href="http://www.slideshare.net/troubalex/koffice-2-overview-presentation?type=powerpoint" title="KOffice 2 overview">KOffice 2 overview</a></p>
+<p>View SlideShare <a href="http://www.slideshare.net/troubalex/koffice-2-overview-presentation?type=powerpoint" title="View KOffice 2 overview on SlideShare">presentation</a> or <a href="http://www.slideshare.net/upload?type=powerpoint">Upload</a> your own. (tags: <a href="http://slideshare.net/tag/koffice2">koffice2</a> <a href="http://slideshare.net/tag/kde">kde</a>)</p>
+<p>Tags: <a href="http://technorati.com/tag/kde">kde</a>, <a href="http://technorati.com/tag/openexpo">openexpo</a>, <a href="http://technorati.com/tag/%20koffice">koffice</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>OpenExpo</title>
+			<link>/posts/openexpo/</link>
+			<pubDate>Wed, 24 Sep 2008 07:06:29 +0000</pubDate>
+			
+			<guid>/posts/openexpo/</guid>
+			<description>I&amp;rsquo;m back to lovely Switzerland.
+Claudia and I arrived yesterday around tea time after missing our connection at Zurich. Travelling by German Bahn always is an adventurous thing&amp;hellip; especially when I travel to Switzerland.
+During our slightly longer than planned trip I added the final polish to my talk which is scheduled for this early afternoon and wrote my thoughts on a *huge* staple of notecards. I was even asked if I did my homework on the train!</description>
+			<content type="html"><![CDATA[<p>I&rsquo;m back to lovely Switzerland.</p>
+<p>Claudia and I arrived yesterday around tea time after missing our connection at Zurich. Travelling by German Bahn always is an adventurous thing&hellip; especially when I travel to Switzerland.</p>
+<p>During our slightly longer than planned trip I added the final polish to my talk which is scheduled for this early afternoon and wrote my thoughts on a *huge* staple of notecards. I was even asked if I did my homework on the train!</p>
+<p>Due to pure coincidence my perfect timing I will give a talk on KOffice 2 right on the day of the first beta release. I somehow landed in the technology track which was quite a shock to me at first sight, but after making up my concept it seems to fit fine&hellip; I hope.</p>
+<p>So keep your fingers crossed for my first tech-talk and stay tuned for the slides. They will appear soon after my talk sometimes this afternoon. If I have the time that is.</p>
+<p>Oh and by the way, if you happen to be in the area drop by. We&rsquo;re at Eulachhallen, somewhere in the back corner close to a coffee machine.</p>
+<p>Tags: <a href="http://technorati.com/tag/kde">kde</a>, <a href="http://technorati.com/tag/switzerland">switzerland</a>, <a href="http://technorati.com/tag/%20openexpo">openexpo</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KDE for Grannies</title>
+			<link>/posts/kde-for-grannies/</link>
+			<pubDate>Mon, 01 Sep 2008 22:25:39 +0000</pubDate>
+			
+			<guid>/posts/kde-for-grannies/</guid>
+			<description>Some time ago I bought a used ThinkPad for my grandparents - fully equipped with printer and high speed internet connection. I installed Kubuntu on it and most of it ran out of the box. So far so good. Then came the time of learning. Did you ever think about how much coordination is needed to mouse over an icon, hold the mouse in place and click with your finger on the right button?</description>
+			<content type="html"><![CDATA[<p>Some time ago I bought a used ThinkPad for my grandparents - fully equipped with printer and high speed internet connection. I installed Kubuntu on it and most of it ran out of the box. So far so good. Then came the time of learning. Did you ever think about how much coordination is needed to mouse over an icon, hold the mouse in place and click with your finger on the right button? It&rsquo;s incredibly difficult for old people. At least it was for my grandfather. He died before I could teach him all he wanted to know. But here comes Granny. She moves the mouse like nothing and already taught herself a lot about using a computer simply by trying everything. This is limited of course. So I wanted to print the KMail manual for her to help her learn. Well, I did print something actually. First issue: we both only had the english manual. I knew there was a German version but I simply couldn&rsquo;t find it in the repositories (or anywhere else). I ended up with the version I found on <a href="http://docs.kde.org">docs.kde.org</a>. Second issue: the documentation covers a lot of things that are of no interest to a new-to-all-things-computer Granny (think about encrypting or MIME-types). I finally copied&amp;pasted those paragraphs that I thought were the most useful into a txt-file and printed that, put it inside an envelope and brought it to the post office. And no, a simple email wouldn&rsquo;t have done the job in this case. Apparently. Now I&rsquo;m looking forward to the first email from my Granny. Yes, I&rsquo;m incredibly proud of her. And I&rsquo;m happy about all the effort that was taken to make KDE applications easy to use and easy to understand. Even for Grannies.</p>
+<p>Tags: <a href="http://technorati.com/tag/kde">kde</a>, <a href="http://technorati.com/tag/kubuntu">kubuntu</a>, <a href="http://technorati.com/tag/%20kmail">kmail</a>, <a href="http://technorati.com/tag/%20grandparents">grandparents</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Akademy 2008</title>
+			<link>/posts/akademy-2008/</link>
+			<pubDate>Fri, 15 Aug 2008 11:03:24 +0000</pubDate>
+			
+			<guid>/posts/akademy-2008/</guid>
+			<description>I went to my first Akademy this year. And I get the strong feeling that I should have kept my mouth shut a lot of work is ahead of me. As you might have noticed there is a promo team. And we do work, too. We came up with some nice and hopefully helpful ideas during our BoFs. There will be a complete new system to help everybody on organizing events which is already under development and we agreed on using common web2.</description>
+			<content type="html"><![CDATA[<p>I went to my first Akademy this year. And I get the strong feeling that I should have kept my mouth shut a lot of work is ahead of me. As you might have noticed there is a promo team. And we do work, too. We came up with some nice and hopefully helpful ideas during our BoFs. There will be a complete new system to help everybody on organizing events which is already under development and we agreed on using common web2.0 services to raise attention among new user groups. Stay tuned for news on this topic. Personally, I learnt a lot although I had to work over the weekend and therefor couldn&rsquo;t hear a single talk. I enjoyed meeting people face to face I only knew the names of and get to know new ones, talk about ideas and turn them into plans. We&rsquo;ll see which ones will finally become reality&hellip; And if you want to read more inspired blog entries than this one, head over to <a href="http://wadejolson.wordpress.com/">Wade Olson</a>&hellip;</p>
+<p>Tags: <a href="http://technorati.com/tag/kde">kde</a>, <a href="http://technorati.com/tag/akademy">akademy</a>, <a href="http://technorati.com/tag/kde-promo">kde-promo</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>KDE 4.1 in the press</title>
+			<link>/posts/kde-41-in-the-press/</link>
+			<pubDate>Mon, 04 Aug 2008 17:55:34 +0000</pubDate>
+			
+			<guid>/posts/kde-41-in-the-press/</guid>
+			<description>I did some boring cut&amp;amp;paste work today to make up a page of press reviews after the last release. Maybe you&amp;rsquo;d like to read some of the reviews or send the URL to your friends or digg any article you like. Anyway&amp;hellip; a lot to read out there! If we missed anything, please let me know! Note to the German readers: I like the review at golem.de (scroll down to find the exact URL!</description>
+			<content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/troubalex/2728971474/" title="kde4.1 von troubalex bei Flickr"><img src="http://farm4.static.flickr.com/3228/2728971474_77c792d2da_o.png" alt="kde41.png" title="4.1 - Don't look back"></a> I did some boring cut&amp;paste work today to make up a page of press reviews after the last release. Maybe you&rsquo;d like to read some of the reviews or send the URL to your friends or <a href="http://digg.com">digg</a> any article you like. Anyway&hellip; a lot to read out there! If we missed anything, please let me know! Note to the German readers: I like the review at golem.de (scroll down to find the exact URL!), it&rsquo;s very comprehensive. If you have a not-so-geeky partner and are tired of looking at a blank face when you&rsquo;re talking about the new KDE, you should definitively point her or him there. ;-) Here is the whole list&hellip; <strong>UPDATE:</strong> The current list - including all suggestions in the comments below - can be found <a href="http://kde.org/announcements/4.1/inthepress.php">here</a></p>
+<h3 id="english">English</h3>
+<ul>
+<li>KDE Rocks the Desktop: <a href="http://www.linux.com/feature/142661">linux.com</a></li>
+<li>KDE 4.1 Review: The Rocky Road of the New KDE: <a href="http://itmanagement.earthweb.com/osrc/article.php/12068_3761781_2">itmanagement.earthweb.com</a></li>
+<li>KDE 4.1 Released With openSUSE Packages and Live CD: <a href="http://news.opensuse.org/2008/07/29/kde-41-released-with-opensuse-packages-and-live-cd/">news.opensuse.org</a></li>
+<li>KDE 4.1 release ups free desktop ante: <a href="http://www.techworld.com.au/article/254955/kde_4_1_release_ups_free_desktop_ante">techworld.com.au</a></li>
+<li>KDE 4.1 Released, Reviewed: <a href="http://tech.slashdot.org/tech/08/07/29/1534249.shtml">slashdot.org</a></li>
+<li>KDE Desktop 4.1 released: <a href="http://www.heise-online.co.uk/news/KDE-Desktop-4-1-released--/111205">heise-online.co.uk</a></li>
+<li>KDE 4.1 hits the desktop: <a href="http://www.tectonic.co.za/?p=2724">tectonic.co.za</a></li>
+<li>KDE dedicates 4.1 release to Uwe Thiem: <a href="http://www.tectonic.co.za/?p=2722">tectonic.co.za</a></li>
+<li>KDE 4.1 released: <a href="http://news.zdnet.co.uk/software/0,1000000121,39454359,00.htm">news.zdnet.co.uk</a></li>
+<li>KDE 4.1 delivers a next-gen desktop Linux experience: <a href="http://arstechnica.com/news.ars/post/20080729-kde-4-1-delivers-a-next-gen-desktop-linux-experience.html">arstechnica.com</a></li>
+<li>KDE 4.1 Released: <a href="http://www.osnews.com/story/20125/KDE_4_1_Released">osnews.com</a></li>
+<li>With KDE 4.1, KDE4 starts to show its colors: <a href="http://www.downloadsquad.com/2008/07/30/with-kde-4-1-rc1-kde4-starts-to-show-its-colors/">downloadsquad.com</a></li>
+<li>K Desktop Environment 4.1 lands: <a href="http://www.theregister.co.uk/2008/07/30/kde_4_released/">theregister.co.uk</a></li>
+<li>Is KDE back? 4.1 launches: <a href="http://www.desktoplinux.com/news/NS3263291244.html">desktoplinux.com</a></li>
+<li>KDE 4.1: Better Than Any Mac Or Vista: <a href="http://www.efytimes.com/efytimes/fcreative.asp?edid=27844">efytimes.com</a></li>
+<li>KDE 4.1.0 released: <a href="http://stuff.techwhack.com/4257-kde-4.1.0">techwhack.com</a></li>
+<li>KDE Community Delivers Version 4.1: <a href="http://ostatic.com/170174-blog/kde-community-delivers-version-4-1">ostatic.com</a></li>
+<li>KDE 4.1 - Wow!: <a href="http://sharplinux.blogspot.com/2008/07/kde-4-wow.html">sharplinux.blogspot.com</a></li>
+<li>KDE 4.1 Mania (Overview on Kubuntu, Fedora and Opensuse): <a href="http://linux-guider.blogspot.com/2008/08/kde-41-mania.html">linuxguider.blogspot.com</a></li>
+</ul>
+<h3 id="non-english">Non-English</h3>
+<ul>
+<li>
+<p>[GERMAN] Desktop im Aufwind: <a href="https://www.linux-community.de/Neues/story?storyid=26199">linux-community.de</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE 4.1 erschienen: <a href="http://www.heise.de/newsticker/Unix-Linux-Desktop-KDE-in-Version-4-1-erschienen--/meldung/113517">heise.de</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE 4.1 - neue Desktop-Generation für alle?: <a href="http://www.golem.de/0807/61328.html">golem.de</a></p>
+</li>
+<li>
+<p>[GERMAN] Interview: KDE 4 macht Fortschritte: <a href="http://www.golem.de/0807/61359.html">golem.de</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE 4.1: Zahlreiche Verbesserungen für den Linux Desktop: <a href="http://derstandard.at/?url=/?id=1216918027468">derstandard.at</a></p>
+</li>
+<li>
+<p>[GERMAN] Don`t look back: KDE 4.1 erschienen: <a href="http://www.kubuntu-de.org/nachrichten/software/kde/dont-look-back-kde-4-1-erschienen">kubuntu-de.org</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE 4.1 veröffentlicht: <a href="http://futurezone.orf.at/hardcore/stories/296506/">futurezone.orf.at</a></p>
+</li>
+<li>
+<p>[GERMAN] Linux-Desktop im Aufwind: KDE 4.1 ist da: <a href="http://www.linux-magazin.de/news/linux_desktop_im_aufwind_kde_4_1_ist_da">linux-magazin.de</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE 4.1 ist fertig: <a href="http://www.pcwelt.de/start/software_os/linux/news/173332/kde_41_ist_fertig/">pcwelt.de</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE 4.1 veröffentlicht : <a href="http://www.pro-linux.de/news/2008/12988.html">pro-linux.de</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE 4.1 in Screenshots: <a href="http://www.pro-linux.de/berichte/kde41.html">pro-linux.de</a></p>
+</li>
+<li>
+<p>[GERMAN] KDE kehrt zu den Massen zurück: <a href="%20http://www.silicon.de/software/business/0,39039006,39194234,00/kde+kehrt+zu+den+massen+zurueck.htm">silicon.de</a></p>
+</li>
+<li>
+<p>[GERMAN] Neue Features für KDE: <a href="http://www.testticker.de/news/2008/07/30/neue_features_f_r_kde">testticker.de</a></p>
+</li>
+<li>
+<p>[ITALIAN] Speciale/KDE 4.1 si sente pronto: <a href="http://punto-informatico.it/2374566/PI/News/speciale-kde-41-si-sente-pronto.aspx">punto-informatico.it</a></p>
+</li>
+<li>
+<p>[SWEDISH] KDE 4.1 ute nu - läs om nyheterna: <a href="http://www.idg.se/2.1085/1.172696">idg.se</a></p>
+</li>
+</ul>
+<p>Tags: <a href="http://technorati.com/tag/kde4">kde4</a>, <a href="http://technorati.com/tag/reviews">reviews</a>, <a href="http://technorati.com/tag/%20release">release</a>, <a href="http://technorati.com/tag/%204.1">4.1</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>I Need You!</title>
+			<link>/posts/i-need-you/</link>
+			<pubDate>Tue, 10 Jun 2008 13:31:36 +0000</pubDate>
+			
+			<guid>/posts/i-need-you/</guid>
+			<description>Well, it&amp;rsquo;s not me alone actually. But it made a good headline. ;) I registered a booth at the OpenExpo in Winterthur and would be glad about any helping hand there. Luca Gugelmann and Roland Wolters gave me a vague &amp;ldquo;Yes&amp;rdquo; but both couldn&amp;rsquo;t really promise anything yet. To help me out you don&amp;rsquo;t have to be super-expert or developer, being able to talk about and show some KDE4 goodness will be absolutely fine.</description>
+			<content type="html"><![CDATA[<p>Well, it&rsquo;s not me alone actually. But it made a good headline. ;) I registered a booth at the <a href="http://www.openexpo.ch/openexpo-2008-zuerich">OpenExpo in Winterthur</a> and would be glad about any helping hand there. Luca Gugelmann and <a href="http://liquidat.wordpress.com/">Roland Wolters</a> gave me a vague &ldquo;Yes&rdquo; but both couldn&rsquo;t really promise anything yet. To help me out you don&rsquo;t have to be super-expert or developer, being able to talk about and show some KDE4 goodness will be absolutely fine. Most questions that arise are of a more general kind. Plus: you won&rsquo;t be alone there. If you feel like becoming an active part of the community, this is a good point to start from. This doesn&rsquo;t mean I don&rsquo;t want any experienced booth babes. Just to get that straight. ;) The event is scheduled for 24th and 25th of September, so there is still some time to get it all set. Drop me a comment or an email (for address see below) and I&rsquo;ll lend you a hand. <strong>[UPDATE]</strong> If you want to add yourself to the list, <a href="http://wiki.kde.org/tiki-index.php?page=OpenExpo%202008%20Zurich">here&rsquo;s the link to the wiki page</a> Eckhart kindly set up.</p>
+<p>Tags: <a href="http://technorati.com/tag/KDE">KDE</a>, <a href="http://technorati.com/tag/community">community</a>, <a href="http://technorati.com/tag/%20events">events</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>How to get involved</title>
+			<link>/posts/how-to-get-involved/</link>
+			<pubDate>Mon, 02 Jun 2008 18:03:51 +0000</pubDate>
+			
+			<guid>/posts/how-to-get-involved/</guid>
+			<description>On my way back from Berlin I started thinking about how to give people a hand who would like to get involved with KDE community. Not those who want to contribute code but those others like me who would be glad to help somewhere but who might be a bit more shy. *cough* Here&amp;rsquo;s what I came up with. Something that could be done on the developer&amp;rsquo;s side would be some sort of To-Do-List on the projects website.</description>
+			<content type="html"><![CDATA[<p>On my way back from Berlin I started thinking about how to give people a hand who would like to get involved with KDE community. Not those who want to contribute code but those others like me who would be glad to help somewhere but who might be a bit more shy. *cough* Here&rsquo;s what I came up with. Something that could be done on the developer&rsquo;s side would be some sort of To-Do-List on the projects website. I don&rsquo;t think of those merely general tasks of what needs to be done but clear tasks. That makes it so much easier to choose something that fits my personal skills and interests. This would also work via the lists, but people will have to join the list first. Who actually reads all the archives without searching for something special? On the other hand, joining a mailing list isn&rsquo;t such a big deal. I have never been shy but mailing-lists might seem to be a close circle. So&hellip; anyone thinking about having a closer look should simply subscribe. There&rsquo;s nothing dangerous or complicated about it. Anybody should know that subscribing to a mailing-list doesn&rsquo;t imply that you are visible to everybody until you write something. I have been reading at least one list for ages and I don&rsquo;t think anybody has noticed yet. What do you have to lose then? Another big thing is something that can be done by literally everybody: send the developer(s) of your favourite apps emails. Tell them what you like about their programm or simply say thanks for their work. Positive feedback is something largely undervaluated. Or tell them how you use their app - maybe you do something that nobody thought about before. You might even ask them questions. Most developers like what they do, otherwise they wouldn&rsquo;t sacrifice so much of their free time to it. If you ask your question politely nobody will come back to you with insults. At least nobody I have met so far. What helped for me too was to meet Sebastian and Lydia face to face. It showed me that the impression I had of those KDE folks was true, that they are nice and really interested in my help and not arrogant at all. And now: don&rsquo;t be shy! We don&rsquo;t bite!</p>
+<p>Tags: <a href="http://technorati.com/tag/kde">kde</a>, <a href="http://technorati.com/tag/community">community</a>, <a href="http://technorati.com/tag/%20getting%20involved">getting involved</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>LinuxTag 2008</title>
+			<link>/posts/linuxtag-2008/</link>
+			<pubDate>Fri, 30 May 2008 19:56:18 +0000</pubDate>
+			
+			<guid>/posts/linuxtag-2008/</guid>
+			<description>After trying to visit LinuxTag already last year (and failing unfortunately) I made it to Berlin this time. In beforehand some organizing was still needed as Franz Keferböck who initially planned to take care of this couldn&amp;rsquo;t handle it because he temporarily had no internet access. So I jumped in and together with Claudia Rauch - the smart and lovely KDE office girl - we got it going for the booth.</description>
+			<content type="html"><![CDATA[<p>After trying to visit <a href="http://www.linuxtag.org/2008/">LinuxTag</a> already last year (and failing unfortunately) I made it to Berlin this time. In beforehand some organizing was still needed as <a href="http://franz.keferboeck.info/blog/">Franz Keferböck</a> who initially planned to take care of this couldn&rsquo;t handle it because he temporarily had no internet access. So I jumped in and together with Claudia Rauch - the smart and lovely KDE office girl - we got it going for the booth. I spent most of my time at the booth giving information, answering questions and showing some KDE magic - even on my mac. I met a bunch of new people and matched some names and faces. It even seems I get a program written I have been nagging people for quite a while now. If I manage to compile it that is&hellip; There were some really awesome and reliable guys who gave a lot of time and energy to the booth. Most of them dressed in blue KDE t-shirts. Unfortunately I only had my camera phone to take pics which are incredibly blurry. Anyone who wants to send me some? Thomas? Alex? Sebastian? Aaron??? Oh&hellip; as I mention Aaron Seigo&hellip; I had quite some fun with my geeky company. LinuxTag chose a pretty cool location at Kreuzberg for the social event and although it was freakingly hot and humid inside and the music wasn&rsquo;t quite my cup of tea I enjoyed the party. I only could have slept a bit more&hellip; And now you probably think we mostly had fun and that was all. Oh no. How. Could. You. Ever. ? KDE is worth talking about and all those I listened to did a really good job on it. Unfortunately I didn&rsquo;t have the opportunity to attend the talks on Friday - KDE had its own track - as I was leaving in the afternoon. And because I am dumb I missed my train and had to take the one that left an hour later. I just couldn&rsquo;t take my eyes off <a href="http://liquidat.wordpress.com/">Roland Wolters</a> simply planned my leaving bad enough to arrive at the station in Spandau when the ICE left on the other platform. Note to myself: learn how to read a watch and understand it correctly!</p>
+<p>Tags: <a href="http://technorati.com/tag/linuxtag">linuxtag</a>, <a href="http://technorati.com/tag/kde">kde</a>,<a href="http://technorati.com/tag/%20"></a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Ohne Worte</title>
+			<link>/posts/ohne-worte/</link>
+			<pubDate>Thu, 24 Apr 2008 14:16:54 +0000</pubDate>
+			
+			<guid>/posts/ohne-worte/</guid>
+			<description>Embedded Video
+Blogged with the Flock Browser
+Tags: youtube, pigor, eichhorn, IT</description>
+			<content type="html"><![CDATA[<p><a href="http://www.youtube.com/watch?v=xTorchdVl5c">Embedded Video</a></p>
+<p>Blogged with the <a href="http://www.flock.com/blogged-with-flock" title="Flock Browser">Flock Browser</a></p>
+<p>Tags: <a href="http://technorati.com/tag/youtube">youtube</a>, <a href="http://technorati.com/tag/pigor">pigor</a>, <a href="http://technorati.com/tag/%20eichhorn">eichhorn</a>, <a href="http://technorati.com/tag/%20IT">IT</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Projekt der Woche</title>
+			<link>/posts/projekt-der-woche/</link>
+			<pubDate>Wed, 16 Apr 2008 20:03:29 +0000</pubDate>
+			
+			<guid>/posts/projekt-der-woche/</guid>
+			<description>OpenStreetMap  Das ist natürlich Schmu, mit dem Projekt der Woche. Ich werde nie im Leben einmal in der Woche ein Projekt hier vorstellen. Allerdings war es das Gesprächthema am Küchentisch diese und vorige Woche. Mann und Sohn haben ziemlich viel Zeit damit verbracht, Nippes und das Agnesviertel zu kartografieren. Jetzt gibt es ganz viele neue Kioske und Bushaltestellen — wichtig für kleine Menschen - und (Einbahn–)Straßen, Häuser, Schulen, Park- und Spielplätze und Kneipen — wichtig für große Menschen.</description>
+			<content type="html"><![CDATA[<h3 id="openstreetmaphttpopenstreetmaporg"><a href="http://openstreetmap.org">OpenStreetMap</a></h3>
+<p><a href="http://www.flickr.com/photos/troubalex/2419575496/" title="openstreetmap.png von troubalex bei Flickr"><img src="http://farm4.static.flickr.com/3291/2419575496_79219d5fae_o.png" alt="openstreetmap.png"></a> Das ist natürlich Schmu, mit dem Projekt der Woche. Ich werde nie im Leben einmal in der Woche ein Projekt hier vorstellen. Allerdings war es das Gesprächthema am Küchentisch diese und vorige Woche. Mann und Sohn haben ziemlich viel Zeit damit verbracht, Nippes und das Agnesviertel zu kartografieren. Jetzt gibt es ganz viele neue Kioske und Bushaltestellen — wichtig für kleine Menschen - und (Einbahn–)Straßen, Häuser, Schulen, Park- und Spielplätze und Kneipen — wichtig für große Menschen. Die Ampeln stammen allerdings nicht aus dieser Vater/Sohn-Liaison&hellip; Wem nicht so ganz klar ist, wozu das nun bitte alles gut sein soll — abgesehen von sinnvoller Kinderbelustigung — dem sei die <a href="http://wiki.openstreetmap.org/index.php/Google_Summer_of_Code">Wiki-Seite</a> zum Thema GSoC 2008 ans Herz gelegt. Sehr interessant, was die da alles vor haben.</p>
+<p>Blogged with the <a href="http://www.flock.com/blogged-with-flock" title="Flock Browser">Flock Browser</a></p>
+<p>Tags: <a href="http://technorati.com/tag/openstreetmap">openstreetmap</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Der Countdown läuft</title>
+			<link>/posts/der-countdown-laeuft/</link>
+			<pubDate>Fri, 28 Mar 2008 12:26:17 +0000</pubDate>
+			
+			<guid>/posts/der-countdown-laeuft/</guid>
+			<description>Tags: kubuntu, hardy, 8.04</description>
+			<content type="html"><![CDATA[<p><!-- raw HTML omitted --></p>
+<p>Tags: <a href="http://technorati.com/tag/kubuntu">kubuntu</a>, <a href="http://technorati.com/tag/hardy">hardy</a>, <a href="http://technorati.com/tag/%208.04">8.04</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Train-Networking</title>
+			<link>/posts/train-networking/</link>
+			<pubDate>Fri, 14 Mar 2008 18:04:25 +0000</pubDate>
+			
+			<guid>/posts/train-networking/</guid>
+			<description>oder: Warum ich gerne Zug fahre Alle Welt hasst Zugfahren. Ich nicht. Ich lerne nämlich einen Haufen interessanter Leute beim Zugfahren kennen. Nun mag es helfen, weiblich und ahnsehnlich zu sein. Geschäftsreisende Männer unterhalten sich jedenfalls gerne mit mir, während sie im Zug nichts zu tun haben. Denn mal ehrlich: wer hat schon nach einem langen Tag noch Lust, ausgerechnet im Zug irgendetwas zu arbeiten, wenn man sich stattdessen nett unterhalten kann.</description>
+			<content type="html"><![CDATA[<p><strong>oder: Warum ich gerne Zug fahre</strong> Alle Welt hasst Zugfahren. Ich nicht. Ich lerne nämlich einen Haufen interessanter Leute beim Zugfahren kennen. Nun mag es helfen, weiblich und ahnsehnlich zu sein. Geschäftsreisende Männer unterhalten sich jedenfalls gerne mit mir, während sie im Zug nichts zu tun haben. Denn mal ehrlich: wer hat schon nach einem langen Tag noch Lust, ausgerechnet im Zug irgendetwas zu arbeiten, wenn man sich stattdessen nett unterhalten kann. Ein guter Anreisser sind Fachzeitschriften, die man über den Tisch verstreut hat bzw. in denen man nicht allzu intensiv herumblättert. Und: Lächeln! Auf diese Weise habe ich einige Kontakte geknüpft und hochinteressante Dinge erfahren.</p>
+<p>Leute, fahrt mit der Bahn!</p>
+<p>Tags: <a href="http://technorati.com/tag/bahnfahren">bahnfahren</a>, <a href="http://technorati.com/tag/kontakt">kontakt</a>, <a href="http://technorati.com/tag/%20gespr%C3%A4che">gespräche</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Freude beim Bücherfreund</title>
+			<link>/posts/freude-beim-buecherfreund/</link>
+			<pubDate>Thu, 17 Jan 2008 17:28:06 +0000</pubDate>
+			
+			<guid>/posts/freude-beim-buecherfreund/</guid>
+			<description>Darauf habe ich schon lange gewartet. Marelibri. Ein Portal, das europaweit Antiquariate zusammen bringt. Okay, nicht aus ganz Europa, aber immerhin aus Deutschland, Frankreich, den Niederlanden, Italien und Spanien. Ein erster Test, hat mich gleich ein Buch finden lassen, das ich zwar inzwischen dank der unermüdlichen Recherchen des Gatten besitze, wonach ich mir aber über Jahre die Hacken abgerannt habe. Die Möglichkeiten, die sich bei der Suche nach fremdsprachlichen Büchern damit ergeben, sind ein natürlich ein weiteres dickes Plus.</description>
+			<content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/troubalex/2199261721/" title="marelibri von troubalex bei Flickr"><img src="http://farm3.static.flickr.com/2067/2199261721_491e3af2b0_o.gif" alt="marelibri"></a> Darauf habe ich schon lange gewartet. <a href="http://www.marelibri.com">Marelibri.</a> Ein Portal, das europaweit Antiquariate zusammen bringt. Okay, nicht aus ganz Europa, aber immerhin aus Deutschland, Frankreich, den Niederlanden, Italien und Spanien. Ein erster Test, hat mich gleich ein Buch finden lassen, das ich zwar inzwischen dank der unermüdlichen Recherchen des Gatten besitze, wonach ich mir aber über Jahre die Hacken abgerannt habe. Die Möglichkeiten, die sich bei der Suche nach fremdsprachlichen Büchern damit ergeben, sind ein natürlich ein weiteres dickes Plus. Schade, dass Internet nicht riecht &hellip; via <a href="http://www.golem.de/0801/57054.html">Golem</a></p>
+<p>Blogged with <a href="http://www.flock.com/blogged-with-flock" title="Flock">Flock</a></p>
+<p>Tags: <a href="http://technorati.com/tag/antiquariat">antiquariat</a>, <a href="http://technorati.com/tag/start-up">start-up</a>, <a href="http://technorati.com/tag/%20%20marelibri">marelibri</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Frohe Weihnachten</title>
+			<link>/posts/frohe-weihnachten/</link>
+			<pubDate>Sun, 23 Dec 2007 12:34:32 +0000</pubDate>
+			
+			<guid>/posts/frohe-weihnachten/</guid>
+			<description>Ich wünsche Euch allen ruhige und besinnliche Weihnachtstage und ein gutes und erfolgreiches Neues Jahr. Hoffentlich ein Jahr mit vielen Blogeinträgen &amp;hellip;</description>
+			<content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/troubalex/2130142795/" title="Frohe Weihnachten von troubalex in Flickr"><img src="http://farm3.static.flickr.com/2063/2130142795_094864248c_o.jpg" alt="" title="Frohe Weihnachten"></a> Ich wünsche Euch allen ruhige und besinnliche Weihnachtstage und ein gutes und erfolgreiches Neues Jahr. Hoffentlich ein Jahr mit vielen Blogeinträgen &hellip;</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Von der Geek-Ecke in den Wirtschaftsteil</title>
+			<link>/posts/von-der-geek-ecke-in-den-wirtschaftsteil/</link>
+			<pubDate>Fri, 16 Nov 2007 10:23:52 +0000</pubDate>
+			
+			<guid>/posts/von-der-geek-ecke-in-den-wirtschaftsteil/</guid>
+			<description>Heute ist in der Süddeutschen Zeitung ein Artikel erschienen über Klaus Knopper und sein Knoppix. &amp;ldquo;Der Pinguin-Bändiger&amp;rdquo;, SZ vom 16.11.2007 Das ist ja an sich nicht so unglaublich erwähnenswert. Erwähnenswert erscheint mir die Tatsache, dass er auf der 2. Seite des Wirtschaftsteils erschienen ist. In der oberen Hälfte. In der Mitte. Einem reichlich prominenten Platz für so ein Geek-Thema. Das lässt mich darauf schließen, dass Linux tatsächlich so ganz langsam in die Wahrnehmung der Leute vordringt - als ein System, dass man wirklich auch benutzen kann.</description>
+			<content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/troubalex/2037428004/" title="sueddeutsche.jpg von troubalex in Flickr"><img src="http://farm3.static.flickr.com/2359/2037428004_819ed91744_o.jpg" alt="sueddeutsche.jpg"></a> Heute ist in der Süddeutschen Zeitung ein Artikel erschienen über Klaus Knopper und sein Knoppix. <a href="http://www.sueddeutsche.de/computer/artikel/460/143143/">&ldquo;Der Pinguin-Bändiger&rdquo;, SZ vom 16.11.2007</a> Das ist ja an sich nicht so unglaublich erwähnenswert. Erwähnenswert erscheint mir die Tatsache, dass er auf der 2. Seite des Wirtschaftsteils erschienen ist. In der oberen Hälfte. In der Mitte. Einem reichlich prominenten Platz für so ein Geek-Thema. Das lässt mich darauf schließen, dass Linux tatsächlich so ganz langsam in die Wahrnehmung der Leute vordringt - als ein System, dass man wirklich auch benutzen kann. Ich werde zwar immer noch ungläubig bestaunt (gerade als Frau!), wenn ich sage, dass ich seit Jahren praktisch ausschließlich mit Linux arbeite. Das Entsetzen weicht aber allmählich einer gewissen Neugier. Lustigerweise mehr bei den klassischen Usern als bei denen, die als IT-irgendwas ihre Brötchen verdienen.</p>
+<p>Tags: <a href="http://technorati.com/tag/linux">linux</a>, <a href="http://technorati.com/tag/knoppix">knoppix</a>, <a href="http://technorati.com/tag/%20sueddeutsche">sueddeutsche</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Entwicklungshilfe</title>
+			<link>/posts/untitled/</link>
+			<pubDate>Sun, 28 Oct 2007 11:06:10 +0000</pubDate>
+			
+			<guid>/posts/untitled/</guid>
+			<description>Eine interessante Frage für mich lautet immer mal wieder: Wie bringe ich den weniger interessierten, weniger computer-affinen Menschen vor den Rechner? Spiele, Emails, Internet. Logisch. Aber wie nehme ich die Skepsis vor der Text-Editoren? Oder der Kommandozeile? Wie kann ich zeigen, dass diese Dinge von jedem benutzt werden können, der in der Lage ist, ein paar Begriffe auswendig zu lernen? Es geht über die richtigen Programme, die etwas können, das der Nutzer unbedingt braucht (oder brauchen will).</description>
+			<content type="html"><![CDATA[<p>Eine interessante Frage für mich lautet immer mal wieder: Wie bringe ich den weniger interessierten, weniger computer-affinen Menschen vor den Rechner? Spiele, Emails, Internet. Logisch. Aber wie nehme ich die Skepsis vor der Text-Editoren? Oder der Kommandozeile? Wie kann ich zeigen, dass diese Dinge von jedem benutzt werden können, der in der Lage ist, ein paar Begriffe auswendig zu lernen? Es geht über die richtigen Programme, die etwas können, das der Nutzer unbedingt braucht (oder brauchen will). Ich selbst habe via elm, tin und joe gelernt. Ich wollte Emails schreiben und in Newsgruppen lesen und das ging eben nur über ein Terminal. Also habe ich es halt gelernt. Und wie komme ich jetzt eigentlich so plötzlich darauf? Grund ist mal wieder der Gatte. Der weigerte sich bisher hartnäckig auch nur einen Gedanken an irgendwelche Befehle zu verschwenden, die nicht per Maus ausgeführt werden sondern in wie auch immer geartete Textfelder getippt werden müssen. Viel zu mühsam zu merken und viel zu umständlich. <a href="http://www.flickr.com/photos/troubalex/1788832252/" title="lilypond-lilie von troubalex in Flickr"><img src="http://farm3.static.flickr.com/2242/1788832252_8518029881_o.png" alt="lilypond-lilie"></a> Vor zwei Tagen änderte er seine Meinung. Grund ist das großartige Lilypond. Er muss nämlich für einen seiner Chöre den Großteil eines Konzertprogramms transponieren. Da sind handgeschriebene Chorpartituren keine echte Option. Es musste ein Notensatzprogramm her, das möglichst umfangreiche Satzfunktionen mitbringt, unkompliziert zu bedienen ist und - das k.o.-Kriterium schlechthin - kein MIDI-Keyboard zum eingeben benötigt. Lilypond ist genau das. Es funktioniert nach einem ähnlichen Prinzip wie LATEX und wenn man einmal die Syntax zumindest in groben Zügen verstanden hat, kann man schnell gute Ergebnisse im Notensatz erzielen. Das hat der Gatte jetzt auch erkannt. Und seit zwei Tagen blockiert er den Familienrechner, schaltet zwischen Texteditor Kate (der übrigens sogar einen Hervorhebungs-Modus für Lilypond mitbringt!) und Konsole hin- und her als hätte er seit Jahren nichts anderes gemacht und erfreut mich mit gelegentlichen &ldquo;Cool!&quot;-Äußerungen. War das mit der Konsole nicht alles bloß was für Geeks?</p>
+<p>Tags: <a href="http://technorati.com/tag/lilypond">lilypond</a>, <a href="http://technorati.com/tag/kate">kate</a>, <a href="http://technorati.com/tag/%20%20linux">linux</a>, <a href="http://technorati.com/tag/%20%20notensatz">notensatz</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>ubucon 2007</title>
+			<link>/posts/ubucon-2007/</link>
+			<pubDate>Tue, 23 Oct 2007 15:22:07 +0000</pubDate>
+			
+			<guid>/posts/ubucon-2007/</guid>
+			<description>Obwohl dieses Blog gelinde gesagt noch eine Riesenbaustelle ist - sowohl optisch als auch technisch - kann ich ja wenigstens schon mal Content produzieren. Am 20. und 21. 10 fand in der Hochschule Niederrhein in Krefeld die erste deutsche ubucon statt. Ich hatte nur am Sonntag das Vergnügen, aber es hat sich auch für diesen einen Tag gelohnt. Ich habe mir zum Einstieg Stefan Pampels Vortrag über DTP angehört. In der letzten Woche hatte ich mich mehr oder weniger intensiv mit Inkskape befasst und da kam mir das doch ganz gelegen.</description>
+			<content type="html"><![CDATA[<p>Obwohl dieses Blog gelinde gesagt noch eine Riesenbaustelle ist - sowohl optisch als auch technisch - kann ich ja wenigstens schon mal Content produzieren. <img src="http://farm3.static.flickr.com/2032/1708092107_f811ce8477_o.png" alt="">Am 20. und 21. 10 fand in der Hochschule Niederrhein in Krefeld die erste deutsche <a href="http://ubucon.de">ubucon</a> statt. Ich hatte nur am Sonntag das Vergnügen, aber es hat sich auch für diesen einen Tag gelohnt. Ich habe mir zum Einstieg <a href="http://wiki.polyformal.de/vortraege/werkzeuge_fuer_desktop_publishing?s=inkscape">Stefan Pampels Vortrag über DTP</a> angehört. In der letzten Woche hatte ich mich mehr oder weniger intensiv mit Inkskape befasst und da kam mir das doch ganz gelegen. Obwohl ich sonntags nicht unbedingt mir Begeisterung schon vor neun im Auto sitze. Vieles von dem, das angesprochen wurde, war mir nicht mehr wirklich neu. Allerdings gab es doch noch einige Hinweise und Tools, die mir neu waren und die ich mir bei Gelegenheit näher ansehen werde. Und den Farbkreis in Scribus kannte ich auch noch nicht. Nach einer Kaffee-Pause habe ich die Gelegenheit genutzt, das Projekt <a href="http://www.seminarix.org/">Seminarix</a> näher zu beäugen. Ich hatte schon darüber gelesen und fand es einen spannenden Ansatz. Wie will man OpenSource an den Schüler bringen, wenn die Lehrer da mauern? In den meisten Fällen wohl nicht einmal absichtlich sondern aus schlichter Unkenntnis. Aber wem sage ich das&hellip; Herr Zimmermann hat einen engagierten Vortrag gehalten, dem man anmerkte, dass ihm das Thema wirklich eine persönliche Angelegenheit ist. Ich habe zwei CDs mitgenommen und muss das System noch ausprobieren. Mal sehen ob sich das nicht irgendwie an der Schule meines Sohnes anbringen lässt. Zum Abschluss dann hat Sebastian Kügler KDE 4 vorgestellt. Oh das wird sehr schick! Ich erspare mir hier die Details, aber mir scheinen da viele hervorragende Konzepte drinzustecken, gerade die Portabilität betreffend. Naja, und dass es eben einfach schick aussieht, habe ich ja schon erwähnt. (Die ersparten Details gib es <a href="http://kde.org/announcements/announce-4.0-beta3.php">hier</a>.) Fazit: Eine insgesamt durchaus lohnenswerte Veranstaltung. Ich als Neuling hatte endlich mal die Gelegenheit, Namen Gesichter zuzuordnen, und habe dabei natürlich auch neue Leute kennengelernt. Ein kleines Manko war allerdings die fehlenden Pausen, die praktisch gewesen wären, um in Ruhe mal ein paar Worte zu wechseln. Das lässt sich aber doch wohl sicher fürs nächste Mal einplanen.</p>
+<p>Tags: <a href="http://technorati.com/tag/ubucon">ubucon</a>, <a href="http://technorati.com/tag/KDE">KDE</a>, <a href="http://technorati.com/tag/%20Linux">Linux</a>, <a href="http://technorati.com/tag/%20ubuntu">ubuntu</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>A Good Question</title>
+			<link>/posts/370/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>/posts/370/</guid>
+			<description>After I presented the new game mechanic features we have in the pipeline for the Qt Developer Network during our project fair on Monday, I received a good question. I had mentioned that the principles we apply mostly cater to men.
+ So, why did you give up on the ladies?
+ Well, I didn&amp;rsquo;t. Thing is however that &amp;ldquo;social&amp;rdquo; does not necessarily mean the same for everybody. Prior to coming up with the specifications for the latest reward/reputation features, I did extensive research.</description>
+			<content type="html"><![CDATA[<p>After I presented the new game mechanic features we have in the pipeline for the <a href="http://developer.qt.nokia.com">Qt Developer Network</a> during our project fair on Monday, I received a good question. I had mentioned that the principles we apply mostly cater to men.</p>
+<blockquote>
+<p>So, why did you give up on the ladies?</p>
+</blockquote>
+<p>Well, I didn&rsquo;t. Thing is however that &ldquo;social&rdquo; does not necessarily mean the same for everybody. Prior to coming up with the specifications for the latest reward/reputation features, I did extensive research. And I have a close eye on our site obviously. What I have learned now is that although some things work equally well for both genders, others don&rsquo;t. Surprise? Not really. Let me give you an example. One of my favourite community sites is <a href="http://ravelry.com">Ravelry</a>. It is built around knitting and crocheting topics and it&rsquo;s huge! It has plenty of great features but the one I&rsquo;m trying to make a point about here are the groups.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

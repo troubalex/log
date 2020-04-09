@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>howto on Alexandra&#39;s Log</title>
+    <link>/tags/howto/</link>
+    <description>Recent content in howto on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 06 Nov 2009 15:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organize a Booth and Keep Your Sanity</title>
+      <link>/posts/organize-a-booth-and-keep-your-sanity/</link>
+      <pubDate>Fri, 06 Nov 2009 15:41:00 +0000</pubDate>
+      
+      <guid>/posts/organize-a-booth-and-keep-your-sanity/</guid>
+      <description>After having a quick chat with Kévin Ottens on IRC we agreed that it would be useful to write up a small how-to explaining the Art of Booth Organization™ as a follow up on the how-to for sprints I posted earlier. He has been poking me about it repeatedly, so voilà, Monsieur, finalement, c&amp;rsquo;est fait. While writing down all those steps I realized that organizing a booth is more complex than I thought.</description>
+    </item>
+    
+    <item>
+      <title>Call for Help</title>
+      <link>/posts/call-for-help/</link>
+      <pubDate>Wed, 17 Jun 2009 20:22:22 +0000</pubDate>
+      
+      <guid>/posts/call-for-help/</guid>
+      <description>Image via Wikipedia
+1.5 years ago, Franz was in the same position as I am now: he needed a helping hand. And unfortunately it&amp;rsquo;s the same event again. There is an OpenExpo in Winterthur coming up on 23rd and 24th September and so far noone has stepped up to organize it. These expos are nice events (incl. catering) and stunningly well organized by /ch/open - there is really not much to do.</description>
+    </item>
+    
+  </channel>
+</rss>

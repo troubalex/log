@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greasemonkey on Alexandra&#39;s Log</title>
+    <link>/tags/greasemonkey/</link>
+    <description>Recent content in Greasemonkey on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 26 Apr 2009 14:14:32 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/greasemonkey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firefox extensions for Google Apps</title>
+      <link>/posts/firefox-extensions-for-google-apps/</link>
+      <pubDate>Sun, 26 Apr 2009 14:14:32 +0000</pubDate>
+      
+      <guid>/posts/firefox-extensions-for-google-apps/</guid>
+      <description>Google Apps like Mail, Reader, Calendar and Docs make cover a big part of my daily work flow. This is mostly because I switch between various machines and operating systems on a regular basis and not so much because I think they are better or whatever than the usual suspects on the desktops. These are the add-ons I still use after an extensive time of testing. Better GMail 2 This one compiles several user generated Greasemonkey scripts into a single add-on: it adds little icons to emails with attachements, shows the amount of unread messages in the tab header, hides unnecessary clutter in the sidebar, adds folders and much more.</description>
+    </item>
+    
+    <item>
+      <title>Add it on!</title>
+      <link>/posts/add-it-on/</link>
+      <pubDate>Mon, 20 Apr 2009 15:01:30 +0000</pubDate>
+      
+      <guid>/posts/add-it-on/</guid>
+      <description>I spent a rather large part of my working hours on the internet: reading feeds, monitoring microblogging sites or sharing blogs and articles via bookmarking services. To keep it short: I live in my web browser.
+Extensions to my rescue The smartest thing about Firefox is its extendability. There is a ton of more or less useful add-ons available on Mozilla&amp;rsquo;s Add-on site that solve even those issues you have hardly thought about before finding the extension.</description>
+    </item>
+    
+  </channel>
+</rss>

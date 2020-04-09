@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bern on Alexandra&#39;s Log</title>
+    <link>/tags/bern/</link>
+    <description>Recent content in Bern on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 06 Apr 2009 08:37:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/bern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenExpo revisited</title>
+      <link>/posts/openexpo-revisited/</link>
+      <pubDate>Mon, 06 Apr 2009 08:37:42 +0000</pubDate>
+      
+      <guid>/posts/openexpo-revisited/</guid>
+      <description>You know it&amp;rsquo;s spring when travels to Berne, Switzerland, hit you again. Regardless of the weather of course. Although this time, it did feel like spring over there and on the day I left for Oslo again, it was really warm, too warm actually for my thick woolen jacket. On the other hand, the jacket was more than needed on my walk from the bus stop to my apartment in Oslo.</description>
+    </item>
+    
+  </channel>
+</rss>

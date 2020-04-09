@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra&#39;s Log</title>
+    <link>/</link>
+    <description>Recent content on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 03 Apr 2019 23:15:59 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community Leadership and People Management</title>
+      <link>/posts/oss-community-management/</link>
+      <pubDate>Wed, 24 Apr 2019 09:05:26 +0200</pubDate>
+      
+      <guid>/posts/oss-community-management/</guid>
+      <description>I gave a presentation last night at a meetup in Bergen which was essentially about people management. I was invited to share my experience from building a remote team at VIBBIO but a lot of the points I covered apply to pretty much all kinds of teams in some form.
+One of the points I covered was basically how I adopted techniques I learned during my time at KDE. Later, that got me thinking about how those experiences prepared me for the work I am doing now, more than 10 years later.</description>
+    </item>
+    
+    <item>
+      <title>Working at an Early-Stage Startup</title>
+      <link>/posts/working-at-startups/</link>
+      <pubDate>Sun, 07 Apr 2019 22:13:17 +0200</pubDate>
+      
+      <guid>/posts/working-at-startups/</guid>
+      <description>I get asked on a regular basis if it&amp;rsquo;s a good idea to apply for a job at an early stage startup. As usual, the answer is &amp;ldquo;it depends&amp;rdquo;. There are clear pros and cons, in my opinion.
+Pros  You learn incredibly fast You have a lot of influence on what your job looks like You are part of an extremely tight-knit team of people You get a lot more responsibility than in established companies  Cons  You usually need to figure out a lot of things on your own Priorities shift often and quickly Those shifts can feel random and uninvited Usually, nobody has time to mentor you You get a lot more responsibility than in established companies You might feel very lonely  I usually tell folks that it really depends on how secure they feel with what they know and what they don&amp;rsquo;t know.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Wed, 03 Apr 2019 23:16:39 +0200</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>Inspired by (okay, stolen from) Elisabeth Irgens
+Let&amp;rsquo;s try something different. I need to get my perfectionism under control when it comes to writing, so I decided to follow Elisabeth&amp;rsquo;s example, and try a low-key way of writing down things I learn or stumble upon. Kind of like a log.
+I constantly learn new things about building product, growing a team, and creating a company from nothing at VIBBIO, I might as well jot it down.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 03 Apr 2019 23:15:59 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>👋
+Alexandra leads product and engineering at VIBBIO, an Oslo-based video startup.
+A designer by trade and a terrible programmer by choice, she moves between worlds, and refuses to play by the rules.
+  Home page background photo by Tyler Lastovich on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>What is it that we learn?</title>
+      <link>/posts/learn-and-publish/</link>
+      <pubDate>Sat, 31 Mar 2012 17:50:27 +0000</pubDate>
+      
+      <guid>/posts/learn-and-publish/</guid>
+      <description>If you don’t read this entire post, or if you take nothing else away from it, then just remember these points:
+ When you learn something, write about it, and don’t do it just to make money off it. Don&amp;rsquo;t be afraid to make mistakes. Teaching others will help you learn. Encourage collaboration by allowing a free flow of constructive comments. If you make a mistake, fix it.  I think this is a winning strategy for all those who are involved in design or development blogging, as well as tutorial writing.</description>
+    </item>
+    
+    <item>
+      <title>Supporting Software Product Releases with Social Media Tools</title>
+      <link>/posts/supporting-releases-social-media/</link>
+      <pubDate>Sun, 20 Mar 2011 20:27:08 +0000</pubDate>
+      
+      <guid>/posts/supporting-releases-social-media/</guid>
+      <description>I&amp;rsquo;ve been sitting on this mind map for quite some time now but never got around to properly documenting my thoughts. Chances are that it will never happen so I&amp;rsquo;ll put it up for grabs. The mind map is huge. In an ideal world, a new release would be supported by a whole team pushing buttons on all sorts of social networks. The world is unfortunately rarely ideal, so the team will have to prioritize depending on its size, audience and preference.</description>
+    </item>
+    
+    <item>
+      <title>Community: my first steps</title>
+      <link>/posts/community-first-steps/</link>
+      <pubDate>Mon, 07 Mar 2011 20:34:00 +0000</pubDate>
+      
+      <guid>/posts/community-first-steps/</guid>
+      <description>Time flies. 15 years ago I published my first community fuelled website. It&amp;rsquo;s long gone of course but I can still tell the story. It all started with an anniversary One of my all-time favourite children&amp;rsquo;s TV show went into it&amp;rsquo;s 25th year at the time. I still watched it on a regular basis and so I had an idea. Why not send a special greeting card? One that would be fun to make and a bit different?</description>
+    </item>
+    
+    <item>
+      <title>Career opportunities and YouTube videos</title>
+      <link>/posts/career-opportunities-and-youtube-videos/</link>
+      <pubDate>Tue, 02 Mar 2010 18:06:38 +0000</pubDate>
+      
+      <guid>/posts/career-opportunities-and-youtube-videos/</guid>
+      <description>Hum&amp;hellip; I guess it&amp;rsquo;s been a while since I last blogged. This time however I have something to show off: Till&amp;rsquo;s and my presentation at CampKDE is on YouTube. And without further ado &amp;ndash; enjoy the show. The slides are quite visible in the video but I thought embedding them here wouldn&amp;rsquo;t hurt.
+View more presentations from Alexandra Leisse.
+If you are interested in the rest of the talks, head over to the KDE Promo channel on YouTube and take a look.</description>
+    </item>
+    
+    <item>
+      <title>Organize a Booth and Keep Your Sanity</title>
+      <link>/posts/organize-a-booth-and-keep-your-sanity/</link>
+      <pubDate>Fri, 06 Nov 2009 15:41:00 +0000</pubDate>
+      
+      <guid>/posts/organize-a-booth-and-keep-your-sanity/</guid>
+      <description>After having a quick chat with Kévin Ottens on IRC we agreed that it would be useful to write up a small how-to explaining the Art of Booth Organization™ as a follow up on the how-to for sprints I posted earlier. He has been poking me about it repeatedly, so voilà, Monsieur, finalement, c&amp;rsquo;est fait. While writing down all those steps I realized that organizing a booth is more complex than I thought.</description>
+    </item>
+    
+    <item>
+      <title>Qt 4.6 Beta Program</title>
+      <link>/posts/qt-4-6-beta-program/</link>
+      <pubDate>Fri, 02 Oct 2009 11:21:11 +0000</pubDate>
+      
+      <guid>/posts/qt-4-6-beta-program/</guid>
+      <description>We are approaching the release of Qt 4.6. To make it rock as much as we can we have just started a beta program where we collect feedback. If you&amp;rsquo;re interested in joining, please read the details on Volker&amp;rsquo;s blog. The program is open to everybody and and joining is not needed to test the beta.</description>
+    </item>
+    
+  </channel>
+</rss>

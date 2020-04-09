@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KDE on Alexandra&#39;s Log</title>
+    <link>/tags/kde/</link>
+    <description>Recent content in KDE on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 20 Mar 2011 20:27:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kde/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supporting Software Product Releases with Social Media Tools</title>
+      <link>/posts/supporting-releases-social-media/</link>
+      <pubDate>Sun, 20 Mar 2011 20:27:08 +0000</pubDate>
+      
+      <guid>/posts/supporting-releases-social-media/</guid>
+      <description>I&amp;rsquo;ve been sitting on this mind map for quite some time now but never got around to properly documenting my thoughts. Chances are that it will never happen so I&amp;rsquo;ll put it up for grabs. The mind map is huge. In an ideal world, a new release would be supported by a whole team pushing buttons on all sorts of social networks. The world is unfortunately rarely ideal, so the team will have to prioritize depending on its size, audience and preference.</description>
+    </item>
+    
+    <item>
+      <title>Career opportunities and YouTube videos</title>
+      <link>/posts/career-opportunities-and-youtube-videos/</link>
+      <pubDate>Tue, 02 Mar 2010 18:06:38 +0000</pubDate>
+      
+      <guid>/posts/career-opportunities-and-youtube-videos/</guid>
+      <description>Hum&amp;hellip; I guess it&amp;rsquo;s been a while since I last blogged. This time however I have something to show off: Till&amp;rsquo;s and my presentation at CampKDE is on YouTube. And without further ado &amp;ndash; enjoy the show. The slides are quite visible in the video but I thought embedding them here wouldn&amp;rsquo;t hurt.
+View more presentations from Alexandra Leisse.
+If you are interested in the rest of the talks, head over to the KDE Promo channel on YouTube and take a look.</description>
+    </item>
+    
+    <item>
+      <title>Organize a Booth and Keep Your Sanity</title>
+      <link>/posts/organize-a-booth-and-keep-your-sanity/</link>
+      <pubDate>Fri, 06 Nov 2009 15:41:00 +0000</pubDate>
+      
+      <guid>/posts/organize-a-booth-and-keep-your-sanity/</guid>
+      <description>After having a quick chat with Kévin Ottens on IRC we agreed that it would be useful to write up a small how-to explaining the Art of Booth Organization™ as a follow up on the how-to for sprints I posted earlier. He has been poking me about it repeatedly, so voilà, Monsieur, finalement, c&amp;rsquo;est fait. While writing down all those steps I realized that organizing a booth is more complex than I thought.</description>
+    </item>
+    
+    <item>
+      <title>KDE has Super Cow Powers Too</title>
+      <link>/posts/kde-has-super-cow-powers-too/</link>
+      <pubDate>Sat, 26 Sep 2009 21:28:30 +0000</pubDate>
+      
+      <guid>/posts/kde-has-super-cow-powers-too/</guid>
+      <description>Ariya complained about me being too theoretical again and wanted examples for my last blog. So here we go. One of my alltime favourite online companies is moo.com. I bet you heard me talking about it already. They make those lovely mini cards, post cards, shiny little stickers, and cleverly use a lot of 3rd party services on the web both for their products and their marketing. Let&amp;rsquo;s have a look.</description>
+    </item>
+    
+    <item>
+      <title>Home At Last</title>
+      <link>/posts/home-at-last/</link>
+      <pubDate>Mon, 13 Jul 2009 11:05:01 +0000</pubDate>
+      
+      <guid>/posts/home-at-last/</guid>
+      <description>Three weeks of travel are finally over. I enjoyed most of it but it took it&amp;rsquo;s toll. One of the reasons I didn&amp;rsquo;t feel the summit was as successful for me personally than it could have been. During the four days in Berlin I spent mostly in the halls of LinuxTag, I had the energy and ease to walk around and talk to people although the preparation of the whole event had taken quite some effort from my side.</description>
+    </item>
+    
+    <item>
+      <title>Call for Help</title>
+      <link>/posts/call-for-help/</link>
+      <pubDate>Wed, 17 Jun 2009 20:22:22 +0000</pubDate>
+      
+      <guid>/posts/call-for-help/</guid>
+      <description>Image via Wikipedia
+1.5 years ago, Franz was in the same position as I am now: he needed a helping hand. And unfortunately it&amp;rsquo;s the same event again. There is an OpenExpo in Winterthur coming up on 23rd and 24th September and so far noone has stepped up to organize it. These expos are nice events (incl. catering) and stunningly well organized by /ch/open - there is really not much to do.</description>
+    </item>
+    
+    <item>
+      <title>Organize a Sprint and Keep Your Sanity</title>
+      <link>/posts/organize-a-sprint-and-keep-your-sanity/</link>
+      <pubDate>Thu, 11 Jun 2009 17:31:13 +0000</pubDate>
+      
+      <guid>/posts/organize-a-sprint-and-keep-your-sanity/</guid>
+      <description>I replied to an email today explaining my usual formula for organizing a developer sprint. While typing I thought I might as well blog about it so others can clone it too. Please, comment if you think I forgot something. [caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;aligncenter&amp;rdquo; width=&amp;quot;447&amp;rdquo; caption=&amp;quot;On the Edge by Wendy on flickr&amp;rdquo;][/caption]
+Set a Date First figure out which weekend will fit most possible attendees. Propose no more than three different ones in the beginning or you will never come to an agreement.</description>
+    </item>
+    
+    <item>
+      <title>KOffice Sprint, Day 2</title>
+      <link>/posts/koffice-sprint-day-2/</link>
+      <pubDate>Sun, 07 Jun 2009 18:09:02 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-2/</guid>
+      <description>After an extremely productive and rather well planned Saturday, we kept Sunday for discussions in small groups. The Krita developers moved to the sofas and helped Lukas to clarify the first steps of his SoC project. After a while the moved on to different topics and I read through pages of the Wordpress documentation to find solutions to open questions regarding the website. I didn&amp;rsquo;t get half as much done as I wanted - not quite surprisingly - but I fixed some minor annoyances and talked to Danimo who popped by eventually how to split up both the existing and hopefully soon new created content between main page, wiki, user- and techbase.</description>
+    </item>
+    
+    <item>
+      <title>KOffice sprint Day 1</title>
+      <link>/posts/koffice-sprint-day-1/</link>
+      <pubDate>Sat, 06 Jun 2009 07:38:17 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-1/</guid>
+      <description>It&amp;rsquo;s this time again. Technically, we started last night already with team building (aka socializing aka dinner) but today is the first day of real work. We were kindly invited into the KDAB office in Berlin-Kreuzberg again and I have the strong feeling that Inge is seriously aiming for killing the coffee reserve. We went through various presentations already (see Hanna&amp;rsquo;s blog for details) which lead to very interesting discussions. I don&amp;rsquo;t even get a third of the content but I am tweaking the new website in the meantime.</description>
+    </item>
+    
+    <item>
+      <title>OpenExpo revisited</title>
+      <link>/posts/openexpo-revisited/</link>
+      <pubDate>Mon, 06 Apr 2009 08:37:42 +0000</pubDate>
+      
+      <guid>/posts/openexpo-revisited/</guid>
+      <description>You know it&amp;rsquo;s spring when travels to Berne, Switzerland, hit you again. Regardless of the weather of course. Although this time, it did feel like spring over there and on the day I left for Oslo again, it was really warm, too warm actually for my thick woolen jacket. On the other hand, the jacket was more than needed on my walk from the bus stop to my apartment in Oslo.</description>
+    </item>
+    
+  </channel>
+</rss>

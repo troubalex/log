@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berlin on Alexandra&#39;s Log</title>
+    <link>/tags/berlin/</link>
+    <description>Recent content in Berlin on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 06 Jun 2009 07:38:17 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KOffice sprint Day 1</title>
+      <link>/posts/koffice-sprint-day-1/</link>
+      <pubDate>Sat, 06 Jun 2009 07:38:17 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-1/</guid>
+      <description>It&amp;rsquo;s this time again. Technically, we started last night already with team building (aka socializing aka dinner) but today is the first day of real work. We were kindly invited into the KDAB office in Berlin-Kreuzberg again and I have the strong feeling that Inge is seriously aiming for killing the coffee reserve. We went through various presentations already (see Hanna&amp;rsquo;s blog for details) which lead to very interesting discussions. I don&amp;rsquo;t even get a third of the content but I am tweaking the new website in the meantime.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KDAB on Alexandra&#39;s Log</title>
+    <link>/tags/kdab/</link>
+    <description>Recent content in KDAB on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 07 Jun 2009 18:09:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kdab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KOffice Sprint, Day 2</title>
+      <link>/posts/koffice-sprint-day-2/</link>
+      <pubDate>Sun, 07 Jun 2009 18:09:02 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-2/</guid>
+      <description>After an extremely productive and rather well planned Saturday, we kept Sunday for discussions in small groups. The Krita developers moved to the sofas and helped Lukas to clarify the first steps of his SoC project. After a while the moved on to different topics and I read through pages of the Wordpress documentation to find solutions to open questions regarding the website. I didn&amp;rsquo;t get half as much done as I wanted - not quite surprisingly - but I fixed some minor annoyances and talked to Danimo who popped by eventually how to split up both the existing and hopefully soon new created content between main page, wiki, user- and techbase.</description>
+    </item>
+    
+    <item>
+      <title>KOffice sprint Day 1</title>
+      <link>/posts/koffice-sprint-day-1/</link>
+      <pubDate>Sat, 06 Jun 2009 07:38:17 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-1/</guid>
+      <description>It&amp;rsquo;s this time again. Technically, we started last night already with team building (aka socializing aka dinner) but today is the first day of real work. We were kindly invited into the KDAB office in Berlin-Kreuzberg again and I have the strong feeling that Inge is seriously aiming for killing the coffee reserve. We went through various presentations already (see Hanna&amp;rsquo;s blog for details) which lead to very interesting discussions. I don&amp;rsquo;t even get a third of the content but I am tweaking the new website in the meantime.</description>
+    </item>
+    
+  </channel>
+</rss>

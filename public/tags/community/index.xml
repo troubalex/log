@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on Alexandra&#39;s Log</title>
+    <link>/tags/community/</link>
+    <description>Recent content in community on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 07 Mar 2011 20:34:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community: my first steps</title>
+      <link>/posts/community-first-steps/</link>
+      <pubDate>Mon, 07 Mar 2011 20:34:00 +0000</pubDate>
+      
+      <guid>/posts/community-first-steps/</guid>
+      <description>Time flies. 15 years ago I published my first community fuelled website. It&amp;rsquo;s long gone of course but I can still tell the story. It all started with an anniversary One of my all-time favourite children&amp;rsquo;s TV show went into it&amp;rsquo;s 25th year at the time. I still watched it on a regular basis and so I had an idea. Why not send a special greeting card? One that would be fun to make and a bit different?</description>
+    </item>
+    
+    <item>
+      <title>Cuteness!</title>
+      <link>/posts/cuteness/</link>
+      <pubDate>Thu, 11 Dec 2008 18:20:57 +0000</pubDate>
+      
+      <guid>/posts/cuteness/</guid>
+      <description>Where did the last weeks go? They seem to have passed me unnoticed behind my back&amp;hellip; Exciting things have happened. I spare you the details of the ups and downs I&amp;rsquo;ve been through like the nerve-wracking waiting for emails and simply pull out the most important news: I joined Qt Software&amp;lsquo;s marketing team as Web Community Manager three weeks ago. Being in dark and cold Oslo does need some adaptation but in reward I got really nice colleagues and free access to a wii and a pinball machine.</description>
+    </item>
+    
+    <item>
+      <title>Community interaction</title>
+      <link>/posts/community-interaction/</link>
+      <pubDate>Wed, 08 Oct 2008 10:52:42 +0000</pubDate>
+      
+      <guid>/posts/community-interaction/</guid>
+      <description>There is a lot of thinking going on it seems. Please, head over to Socceroos and read this blog. I first learnt about this concept during Akademy and I think it&amp;rsquo;s pretty exciting. If you&amp;rsquo;re interested (and have the time) join the meeting on #kde-www which is announced here. The details can be found on techbase.</description>
+    </item>
+    
+    <item>
+      <title>Going Web2.0?</title>
+      <link>/posts/going-web20/</link>
+      <pubDate>Fri, 03 Oct 2008 12:44:55 +0000</pubDate>
+      
+      <guid>/posts/going-web20/</guid>
+      <description>There has been some reflections going on about the use of the so called social web after our BoFs at Akademy this summer. I came across some difficulties during the last days though.
+Hasn&amp;rsquo;t the web been social all the time? In the early days, when I first came across the concept of the internet, usegroups and mailing-lists were entirely social. With broader acceptance of the internet itself, things changed to a more presenting approach.</description>
+    </item>
+    
+    <item>
+      <title>Akademy 2008</title>
+      <link>/posts/akademy-2008/</link>
+      <pubDate>Fri, 15 Aug 2008 11:03:24 +0000</pubDate>
+      
+      <guid>/posts/akademy-2008/</guid>
+      <description>I went to my first Akademy this year. And I get the strong feeling that I should have kept my mouth shut a lot of work is ahead of me. As you might have noticed there is a promo team. And we do work, too. We came up with some nice and hopefully helpful ideas during our BoFs. There will be a complete new system to help everybody on organizing events which is already under development and we agreed on using common web2.</description>
+    </item>
+    
+    <item>
+      <title>I Need You!</title>
+      <link>/posts/i-need-you/</link>
+      <pubDate>Tue, 10 Jun 2008 13:31:36 +0000</pubDate>
+      
+      <guid>/posts/i-need-you/</guid>
+      <description>Well, it&amp;rsquo;s not me alone actually. But it made a good headline. ;) I registered a booth at the OpenExpo in Winterthur and would be glad about any helping hand there. Luca Gugelmann and Roland Wolters gave me a vague &amp;ldquo;Yes&amp;rdquo; but both couldn&amp;rsquo;t really promise anything yet. To help me out you don&amp;rsquo;t have to be super-expert or developer, being able to talk about and show some KDE4 goodness will be absolutely fine.</description>
+    </item>
+    
+    <item>
+      <title>How to get involved</title>
+      <link>/posts/how-to-get-involved/</link>
+      <pubDate>Mon, 02 Jun 2008 18:03:51 +0000</pubDate>
+      
+      <guid>/posts/how-to-get-involved/</guid>
+      <description>On my way back from Berlin I started thinking about how to give people a hand who would like to get involved with KDE community. Not those who want to contribute code but those others like me who would be glad to help somewhere but who might be a bit more shy. *cough* Here&amp;rsquo;s what I came up with. Something that could be done on the developer&amp;rsquo;s side would be some sort of To-Do-List on the projects website.</description>
+    </item>
+    
+    <item>
+      <title>LinuxTag 2008</title>
+      <link>/posts/linuxtag-2008/</link>
+      <pubDate>Fri, 30 May 2008 19:56:18 +0000</pubDate>
+      
+      <guid>/posts/linuxtag-2008/</guid>
+      <description>After trying to visit LinuxTag already last year (and failing unfortunately) I made it to Berlin this time. In beforehand some organizing was still needed as Franz Keferböck who initially planned to take care of this couldn&amp;rsquo;t handle it because he temporarily had no internet access. So I jumped in and together with Claudia Rauch - the smart and lovely KDE office girl - we got it going for the booth.</description>
+    </item>
+    
+  </channel>
+</rss>

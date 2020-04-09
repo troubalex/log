@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sprint on Alexandra&#39;s Log</title>
+    <link>/tags/sprint/</link>
+    <description>Recent content in sprint on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 11 Jun 2009 17:31:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sprint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organize a Sprint and Keep Your Sanity</title>
+      <link>/posts/organize-a-sprint-and-keep-your-sanity/</link>
+      <pubDate>Thu, 11 Jun 2009 17:31:13 +0000</pubDate>
+      
+      <guid>/posts/organize-a-sprint-and-keep-your-sanity/</guid>
+      <description>I replied to an email today explaining my usual formula for organizing a developer sprint. While typing I thought I might as well blog about it so others can clone it too. Please, comment if you think I forgot something. [caption id=&amp;rdquo;&amp;rdquo; align=&amp;quot;aligncenter&amp;rdquo; width=&amp;quot;447&amp;rdquo; caption=&amp;quot;On the Edge by Wendy on flickr&amp;rdquo;][/caption]
+Set a Date First figure out which weekend will fit most possible attendees. Propose no more than three different ones in the beginning or you will never come to an agreement.</description>
+    </item>
+    
+    <item>
+      <title>KOffice Sprint, Day 2</title>
+      <link>/posts/koffice-sprint-day-2/</link>
+      <pubDate>Sun, 07 Jun 2009 18:09:02 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-2/</guid>
+      <description>After an extremely productive and rather well planned Saturday, we kept Sunday for discussions in small groups. The Krita developers moved to the sofas and helped Lukas to clarify the first steps of his SoC project. After a while the moved on to different topics and I read through pages of the Wordpress documentation to find solutions to open questions regarding the website. I didn&amp;rsquo;t get half as much done as I wanted - not quite surprisingly - but I fixed some minor annoyances and talked to Danimo who popped by eventually how to split up both the existing and hopefully soon new created content between main page, wiki, user- and techbase.</description>
+    </item>
+    
+    <item>
+      <title>KOffice sprint Day 1</title>
+      <link>/posts/koffice-sprint-day-1/</link>
+      <pubDate>Sat, 06 Jun 2009 07:38:17 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-1/</guid>
+      <description>It&amp;rsquo;s this time again. Technically, we started last night already with team building (aka socializing aka dinner) but today is the first day of real work. We were kindly invited into the KDAB office in Berlin-Kreuzberg again and I have the strong feeling that Inge is seriously aiming for killing the coffee reserve. We went through various presentations already (see Hanna&amp;rsquo;s blog for details) which lead to very interesting discussions. I don&amp;rsquo;t even get a third of the content but I am tweaking the new website in the meantime.</description>
+    </item>
+    
+    <item>
+      <title>KOffice sprint recap</title>
+      <link>/posts/koffice-sprint-recap/</link>
+      <pubDate>Tue, 11 Nov 2008 21:18:52 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-recap/</guid>
+      <description>Now that I had the time to recover from all this sprint stress and after two nearly contentless blogs, I thought I might go into details which results we actually achieved. Inge, Jos, Sebas and me spend our time on working on a marketing strategy for the new KOffice - as you might have read before. Of course, I won&amp;rsquo;t share our plans here, but the attentive observer of this highly interesting project will most probably come across the neat messages we worked out.</description>
+    </item>
+    
+  </channel>
+</rss>

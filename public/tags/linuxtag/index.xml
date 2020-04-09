@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LinuxTag on Alexandra&#39;s Log</title>
+    <link>/tags/linuxtag/</link>
+    <description>Recent content in LinuxTag on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 13 Jul 2009 11:05:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/linuxtag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home At Last</title>
+      <link>/posts/home-at-last/</link>
+      <pubDate>Mon, 13 Jul 2009 11:05:01 +0000</pubDate>
+      
+      <guid>/posts/home-at-last/</guid>
+      <description>Three weeks of travel are finally over. I enjoyed most of it but it took it&amp;rsquo;s toll. One of the reasons I didn&amp;rsquo;t feel the summit was as successful for me personally than it could have been. During the four days in Berlin I spent mostly in the halls of LinuxTag, I had the energy and ease to walk around and talk to people although the preparation of the whole event had taken quite some effort from my side.</description>
+    </item>
+    
+  </channel>
+</rss>

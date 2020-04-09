@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>release on Alexandra&#39;s Log</title>
+    <link>/tags/release/</link>
+    <description>Recent content in release on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 20 Mar 2011 20:27:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supporting Software Product Releases with Social Media Tools</title>
+      <link>/posts/supporting-releases-social-media/</link>
+      <pubDate>Sun, 20 Mar 2011 20:27:08 +0000</pubDate>
+      
+      <guid>/posts/supporting-releases-social-media/</guid>
+      <description>I&amp;rsquo;ve been sitting on this mind map for quite some time now but never got around to properly documenting my thoughts. Chances are that it will never happen so I&amp;rsquo;ll put it up for grabs. The mind map is huge. In an ideal world, a new release would be supported by a whole team pushing buttons on all sorts of social networks. The world is unfortunately rarely ideal, so the team will have to prioritize depending on its size, audience and preference.</description>
+    </item>
+    
+    <item>
+      <title>KDE release event in Zurich</title>
+      <link>/posts/kde-release-event-in-zurich/</link>
+      <pubDate>Fri, 30 Jan 2009 14:35:18 +0000</pubDate>
+      
+      <guid>/posts/kde-release-event-in-zurich/</guid>
+      <description>I attended the 4.2 release event in Zurich on Wednesday and I must say: it was pretty crowded. Pascal and Luca and whoelse helped them did a good job on organizing the whole event, including Apéro with FreeBeer and snacks. I listened to the keynote by Georg Greve, President of the FSFE, and to Aaron who impressed with his live presentation. I found a first set of photos on flickr. It gives a nice idea of the event.</description>
+    </item>
+    
+    <item>
+      <title>KDE 4.1 in the press</title>
+      <link>/posts/kde-41-in-the-press/</link>
+      <pubDate>Mon, 04 Aug 2008 17:55:34 +0000</pubDate>
+      
+      <guid>/posts/kde-41-in-the-press/</guid>
+      <description>I did some boring cut&amp;amp;paste work today to make up a page of press reviews after the last release. Maybe you&amp;rsquo;d like to read some of the reviews or send the URL to your friends or digg any article you like. Anyway&amp;hellip; a lot to read out there! If we missed anything, please let me know! Note to the German readers: I like the review at golem.de (scroll down to find the exact URL!</description>
+    </item>
+    
+  </channel>
+</rss>

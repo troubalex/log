@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KOffice on Alexandra&#39;s Log</title>
+    <link>/tags/koffice/</link>
+    <description>Recent content in KOffice on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 07 Jun 2009 18:09:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/koffice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KOffice Sprint, Day 2</title>
+      <link>/posts/koffice-sprint-day-2/</link>
+      <pubDate>Sun, 07 Jun 2009 18:09:02 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-2/</guid>
+      <description>After an extremely productive and rather well planned Saturday, we kept Sunday for discussions in small groups. The Krita developers moved to the sofas and helped Lukas to clarify the first steps of his SoC project. After a while the moved on to different topics and I read through pages of the Wordpress documentation to find solutions to open questions regarding the website. I didn&amp;rsquo;t get half as much done as I wanted - not quite surprisingly - but I fixed some minor annoyances and talked to Danimo who popped by eventually how to split up both the existing and hopefully soon new created content between main page, wiki, user- and techbase.</description>
+    </item>
+    
+    <item>
+      <title>KOffice sprint Day 1</title>
+      <link>/posts/koffice-sprint-day-1/</link>
+      <pubDate>Sat, 06 Jun 2009 07:38:17 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-day-1/</guid>
+      <description>It&amp;rsquo;s this time again. Technically, we started last night already with team building (aka socializing aka dinner) but today is the first day of real work. We were kindly invited into the KDAB office in Berlin-Kreuzberg again and I have the strong feeling that Inge is seriously aiming for killing the coffee reserve. We went through various presentations already (see Hanna&amp;rsquo;s blog for details) which lead to very interesting discussions. I don&amp;rsquo;t even get a third of the content but I am tweaking the new website in the meantime.</description>
+    </item>
+    
+    <item>
+      <title>KOffice sprint recap</title>
+      <link>/posts/koffice-sprint-recap/</link>
+      <pubDate>Tue, 11 Nov 2008 21:18:52 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint-recap/</guid>
+      <description>Now that I had the time to recover from all this sprint stress and after two nearly contentless blogs, I thought I might go into details which results we actually achieved. Inge, Jos, Sebas and me spend our time on working on a marketing strategy for the new KOffice - as you might have read before. Of course, I won&amp;rsquo;t share our plans here, but the attentive observer of this highly interesting project will most probably come across the neat messages we worked out.</description>
+    </item>
+    
+    <item>
+      <title>KOffice Sprint</title>
+      <link>/posts/koffice-sprint/</link>
+      <pubDate>Sun, 09 Nov 2008 16:18:34 +0000</pubDate>
+      
+      <guid>/posts/koffice-sprint/</guid>
+      <description>This sprint turns out to have been pretty productive. The marketing team (Inge, Jos, Sebas and me) has managed to get all topics covered and now has a finished marketing strategy. I even introduced everybody to the idea of a social stream of all developers involved and people started playing with our demo (thanks to Dirk Olbertz for setting that up!).
+Those developers who have already left apparently did so with a good mood.</description>
+    </item>
+    
+    <item>
+      <title>48 hours</title>
+      <link>/posts/48hours/</link>
+      <pubDate>Fri, 07 Nov 2008 20:51:18 +0000</pubDate>
+      
+      <guid>/posts/48hours/</guid>
+      <description>I&amp;rsquo;ll lose my virginity over this weekend. I have arrived in Berlin this afternoon to attend the KOffice sprint. It&amp;rsquo;s kind of surprising, I never expected to do things like going to a developer meeting&amp;hellip; We have plans - and we have a schedule! - for what has to be done in respect of promotion and marketing for the upcoming release and I am really curious about the results. So stay tuned for updates.</description>
+    </item>
+    
+    <item>
+      <title>KOffice Web Concept</title>
+      <link>/posts/koffice-web-concept/</link>
+      <pubDate>Thu, 30 Oct 2008 20:27:36 +0000</pubDate>
+      
+      <guid>/posts/koffice-web-concept/</guid>
+      <description>Things are in the move it seems and I am still all about drafting concepts for a renewal of the KOffice web presence. We have been discussing this on IRC a bit and it seems that quite some people liked the ideas, so I chose to present them here to give others the opportunity to think about it and maybe reuse it or make smart™ suggestions. ;) From simple to complex My starting point was to find a solution to present KOffice independently without doubling maintenance work and spreading ressources even further on the net.</description>
+    </item>
+    
+    <item>
+      <title>Get &#39;em all!</title>
+      <link>/posts/get-em-all/</link>
+      <pubDate>Sat, 25 Oct 2008 12:28:16 +0000</pubDate>
+      
+      <guid>/posts/get-em-all/</guid>
+      <description>As you may have noticed, KOffice is approching a 2.0 release. There is still some work to do and here&amp;rsquo;s where you come in. It was already announced on the dot: Sunday (which is tomorrow) will be the first official KOffice Bug Day. Or Krush Mastery as Lemma called it. We&amp;rsquo;ll start at 7:00 UTC and gather on #kde-bugs to hunt down known bugs and find some new in the latest release.</description>
+    </item>
+    
+    <item>
+      <title>KOffice 2 talk</title>
+      <link>/posts/koffice-2-talk/</link>
+      <pubDate>Fri, 26 Sep 2008 20:39:15 +0000</pubDate>
+      
+      <guid>/posts/koffice-2-talk/</guid>
+      <description>I made my debut as a speaker on wednesday. I think I mentioned that before&amp;hellip; once or twice&amp;hellip; maybe&amp;hellip; Just let me put it like that: it was exciting and I liked it. And I&amp;rsquo;m so happy how my slides turned out that I will put them up again here. Call me vain. [UPDATE] I heard your complaints. Let me know if this slideshare widget doesn&amp;rsquo;t work either.
+KOffice 2 overview</description>
+    </item>
+    
+  </channel>
+</rss>

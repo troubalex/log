@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moo on Alexandra&#39;s Log</title>
+    <link>/tags/moo/</link>
+    <description>Recent content in moo on Alexandra&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 26 Sep 2009 21:28:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/moo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KDE has Super Cow Powers Too</title>
+      <link>/posts/kde-has-super-cow-powers-too/</link>
+      <pubDate>Sat, 26 Sep 2009 21:28:30 +0000</pubDate>
+      
+      <guid>/posts/kde-has-super-cow-powers-too/</guid>
+      <description>Ariya complained about me being too theoretical again and wanted examples for my last blog. So here we go. One of my alltime favourite online companies is moo.com. I bet you heard me talking about it already. They make those lovely mini cards, post cards, shiny little stickers, and cleverly use a lot of 3rd party services on the web both for their products and their marketing. Let&amp;rsquo;s have a look.</description>
+    </item>
+    
+  </channel>
+</rss>
