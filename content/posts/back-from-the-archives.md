@@ -1,5 +1,5 @@
 ---
-title: “Back from the archives”
+title: Back from the archives
 date: 2020-04-09
 draft: false
 toc: false
