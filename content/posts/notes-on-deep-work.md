@@ -17,9 +17,9 @@ Today I finished Cal Newport’s “Deep Work”. It came recommended by [my fri
 
 ## Why I read the book
 
-I am very much not into productivity hacks, because they never seem to solve the problem of mediocre productivity but rather try to give advice on how to cram _even more_ stuff into any given day. I have extensive experience with that approach, and it’s not for me.
+I am not into productivity hacks, because they never solve the problem of mediocre productivity but try to give advice on how to cram _even more_ into any given day. I have extensive experience with that approach, and it’s not for me.
 
-I got interested because Eva had started to implement some of the tactics outlined in the book, and they felt like they might do the trick for some of my woes, too. 
+I got interested because Eva had started to implement a few tactics outlined in the book, and they felt like they might be useful for my woes.
 
 So here it goes.
 
